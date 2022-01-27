@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ventitas-c666f": {
+      "hosting": {
+        "app-ventitas": [
+          "ventitas-c666f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ventitas-c666f"
+  }
+}
