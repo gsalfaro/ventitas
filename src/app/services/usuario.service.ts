@@ -34,10 +34,12 @@ export class UsuarioService {
 
     this.getAllUsuarios().forEach((usuarios) => {
       usuarios.forEach((usuario) => {
+        console.log(usuario);
         if (username === usuario.nombre && password === usuario.password) {
           localStorage.setItem(this.storageVar, JSON.stringify(usuario));
           this.loggedIn = true;
           this.logger.next(this.loggedIn);
+          console.log("OK");
         }
       });
     });

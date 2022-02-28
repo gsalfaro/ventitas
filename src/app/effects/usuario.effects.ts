@@ -1,14 +1,18 @@
 import { Injectable } from '@angular/core';
 import { Actions, createEffect, ofType } from '@ngrx/effects';
+import { Store } from '@ngrx/store';
+import { of } from 'rxjs';
 import { map, switchMap, tap } from 'rxjs/operators';
 import * as fromActions from '../actions/usuario.actions';
 import { UsuarioService } from '../services/usuario.service';
+import { UsuarioState } from '../states/app.states';
 
 @Injectable()
 export class UsuarioEffects {
   constructor(
     private actions$: Actions,
-    private usuarioService: UsuarioService
+    private usuarioService: UsuarioService,
+    private store: Store<UsuarioState>
   ) {}
 
   loadAllArticles$ = createEffect(() =>
@@ -31,16 +35,19 @@ export class UsuarioEffects {
       ofType(fromActions.Login),
       switchMap((action) =>
         this.usuarioService.logIn(action.username, action.password).pipe(
-          tap(() => window.location.reload()),
-          map((result) => {
-            if (result) {
-              return fromActions.LoginSuccess();
-            } else {
-              return fromActions.LoginError();
-            }
-          })
+          map((data) =>{
+            return fromActions.LoginSuccess()
+          }
+          )
         )
       )
+    )
+  );
+
+  loginSuccess$ = createEffect(() =>
+    this.actions$.pipe(
+      ofType(fromActions.LoginSuccess),
+      tap(() => window.location.reload())
     )
   );
 

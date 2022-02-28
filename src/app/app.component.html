@@ -10,7 +10,7 @@
             </div> <!-- row -->
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6" *ngFor="let item of articulos$ | async">
-                    <div class="single-blog mt-30" *ngIf="!item.Vendido">
+                    <div class="single-blog mt-30" *ngIf="!item.Vendido && (!isLoggued$ || (loguedUser && item.Usuario == loguedUser.id))">
 
                         <div class="blog-image">
                             <app-images-carousel [images]="item.Imagenes"></app-images-carousel>

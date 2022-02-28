@@ -21,6 +21,12 @@ const _usuarioReducer = createReducer(
   })
 );
 
+const _loginUsuarioReducer = createReducer(
+  on(fromActions.LoginSuccess, () => {
+    window.location.reload();
+  })
+);
+
 export function usuarioReducer(state: any, action: Action) {
   return _usuarioReducer(state, action);
 }
@@ -64,9 +70,13 @@ export const selectLoguedUser = createSelector(
   selectAllUsuarios,
   (usuarios) => {
     const loguedUser = JSON.parse(localStorage.getItem('loguedUser') || 'null');
-    console.log(loguedUser);
+
+    if(loguedUser == null) {
+      return null;
+    }
+
     let loguedUsuario = usuarios.filter((usuario) => {
-      return usuario.nombre === localStorage.getItem('loguedUSer');
+      return usuario.nombre === loguedUser.nombre;
     });
     
     if(loguedUsuario.length == 0){

@@ -8,4 +8,5 @@ export interface Articulo {
   Numero_comprador: string;
   Habitacion_comprador: string;
   Imagenes: string[];
+  Usuario: string;
 }

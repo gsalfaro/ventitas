@@ -20,6 +20,8 @@ import { ArticuloService } from '../services/articulo.service';
 export class LoginComponent implements OnInit {
   usuarios$: Observable<Usuario[]>;
   isLoggued$: boolean = false;
+  loguedUser$: Observable<Usuario | null>;
+  loguedUser: Usuario | null = null;
 
   constructor(
     private store: Store<UsuarioState>,
@@ -30,8 +32,14 @@ export class LoginComponent implements OnInit {
     this.usuarios$ = store.select(fromReducer.selectAllUsuarios);
 
     usuarioService.isLoggedIn().subscribe((loggedIn) => {
-      console.log('loggedIn', loggedIn);
       this.isLoggued$ = loggedIn;
+    });
+
+    this.loguedUser$ = store.select(fromReducer.selectLoguedUser);
+    this.loguedUser$.subscribe(user => {
+      if(user != null) {
+        this.loguedUser = user;
+      }
     });
   }
 
@@ -73,6 +81,10 @@ export class LoginComponent implements OnInit {
       let password = this.loginForm.get('password');
 
       if (username && password) {
+
+      console.log(username.value);
+      console.log(password.value);
+      
         this.store.dispatch(
           fromActions.Login({
             username: username.value,
@@ -93,11 +105,12 @@ export class LoginComponent implements OnInit {
     let imagen1 = this.nuevoArticuloForm.get('imagen1');
     let imagen2 = this.nuevoArticuloForm.get('imagen2');
 
-    if (descripcion && precio && imagen1) {
+    if (descripcion && precio && imagen1 && this.loguedUser) {
       let nuevoArticulo = {
         Descripcion: descripcion.value,
         Precio: precio.value,
         Imagenes: [imagen1.value],
+        Usuario: this.loguedUser.id,
       } as Articulo;
 
       if (imagen2?.value) {
