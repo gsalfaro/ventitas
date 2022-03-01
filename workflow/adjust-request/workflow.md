@@ -3,7 +3,7 @@
 ***
 ## **User Enters to the feature**
 
-IMAGEN
+![Imagen](./images/image1.png)
 
 ### Load languages
 > #### **Request**
@@ -199,7 +199,9 @@ IMAGEN
 ***
 
 ## **User searches publications**
-IMAGEN
+
+![Imagen](./images/image2.png)
+
 ### Search
 > #### **Request**
 >**Method:** GET
@@ -252,6 +254,9 @@ IMAGEN
  
 ***
 ## **User clicks on item in results**
+
+![Imagen](./images/image3.png)
+
 ## **Open add form.**
 ## **User enters the requested quantity**
 ## **Click next button**
