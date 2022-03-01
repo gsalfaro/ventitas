@@ -55,7 +55,7 @@ IMAGEN
 }
 ```
 
-### Validate (Validates selected language)
+### Validate selected language
 > #### **Request**
 >**Method:** POST
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/validate](https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/validate)
@@ -97,9 +97,9 @@ IMAGEN
 
 ## **User changes language**
 
-### [#load-languages](Load languages)
-### Validate (Validates selected language)
-### If there is a criterion to search call Search otherwise call Browse
+### [Load languages](#load-languages)
+### [Validate (Validates selected language)](#validate-validates-selected-language)
+### If there is a criterion to search call [Search](#search) otherwise call [Browse](#browse)
 
 ***
 ## **User click on See  *All button* for *Teaching Toolbox category***
@@ -242,21 +242,20 @@ IMAGEN
 ## **User clicks on *Load More* button**
 > #### **Request**
 >**Method:** GET
->**Url:** Same url that **Search** but getting next 10 using Offset parameter to determine the amount loaded.
->**Response:** same that **Search**
+>**Url:** Same url that [Search](#search) but getting next 10 using Offset parameter to determine the amount loaded.
+>**Response:** same that [Search](#search)
 
 ***
 
 ## **User clear criterion and clicks *search* button**
-### Search
+### [Search](#search)
  
 ***
 ## **User clicks on item in results**
-IMAGEN
+## **Open add form.**
+## **User enters the requested quantity**
+## **Click next button**
 
->  - Open add form.
-> - User enters the requested quantity
->  - Click next button
 ### Validates entered quantity for item requested.
 > #### **Request**
 >**Method:** POST
@@ -277,7 +276,7 @@ IMAGEN
     newQuantity: number
 }
 ```
-### User submit the change
+## User submit the change
 > #### **Request**
 >**Method:** POST
 >**url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/d4ef7912-91d2-405e-97b9-3a02d48afe1e](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/d4ef7912-91d2-405e-97b9-3a02d48afe1e)
