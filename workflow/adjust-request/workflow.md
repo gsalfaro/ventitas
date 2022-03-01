@@ -1,15 +1,15 @@
 # **Adjust Requests – User Flow**
 
 ***
-### **User Enters to the feature**
+## **User Enters to the feature**
 
 IMAGEN
 
-#### ==Load languages==
-> ##### **Request**
+### Load languages
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/languages](https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/languages) 
-> ##### **Response** (List of languages)
+> #### **Response** (List of languages)
 >**Format:**
 ```json
 [
@@ -20,11 +20,11 @@ IMAGEN
 ]
 ```
 
-#### ==Load Categories==
-> ##### **Request**
+### Load Categories
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/categories](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/categories)
-> ##### **Response** (List of categories with their subcategories)
+> #### **Response** (List of categories with their subcategories)
 >**Format:**
 ```json
 [
@@ -43,11 +43,11 @@ IMAGEN
 ]
 ```
 
-#### ==Next-cutoff-date==
-> ##### **Request**
+### Next-cutoff-date
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/next-cutoff-date](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/next-cutoff-date)
-> ##### **Response** (Next cutoff date)
+> #### **Response** (Next cutoff date)
 >**Format:**
 ```json
 {
@@ -55,12 +55,12 @@ IMAGEN
 }
 ```
 
-#### ==Validate (Validates selected language)==
-> ##### **Request**
+### Validate (Validates selected language)
+> #### **Request**
 >**Method:** POST
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/validate](https://my.jw-union.org/congregation-literature/api/request-language/16d13cf5-8b2a-4613-9785-bc91fc0d5144/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/validate)
 >**Body:** none
-> ##### **Response**
+> #### **Response**
 >**Format:**
 ```json
 {
@@ -69,11 +69,11 @@ IMAGEN
 }
 ```
 
-#### ==Browse==
-> ##### **Request**
+### Browse
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/browse](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/browse)
-> ##### **Response**
+> #### **Response**
 >**Format:**
 ```json
 [
@@ -95,21 +95,21 @@ IMAGEN
 
 ***
 
-### **User changes language**
+## **User changes language**
 
-#### ==Load languages==
-#### ==Validate (Validates selected language)==
-#### If there is a criterion to search call ==Search== otherwise call ==Browse==
+### [#load-languages](Load languages)
+### Validate (Validates selected language)
+### If there is a criterion to search call Search otherwise call Browse
 
 ***
-### **User click on See  *All button* for *Teaching Toolbox category***
+## **User click on See  *All button* for *Teaching Toolbox category***
 
-#### ==Browse teaching toolbox items==
-> ##### **Request**
+### Browse teaching toolbox items
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/2cadddaf-80d5-472d-b6d9-48cd4dd17a5b/teaching-toolbox](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/2cadddaf-80d5-472d-b6d9-48cd4dd17a5b/teaching-toolbox)
 >**url includes congregation guid, language guid and category guid**
-> ##### **Response**
+> #### **Response**
 >**Format:**
 ```json
 {
@@ -141,14 +141,14 @@ IMAGEN
 ```
 
 ***
-### **User click on See *All button* for a specific category**
+## **User click on See *All button* for a specific category**
 
-#### ==Browse category items==
-> ##### **Request**
+### Browse category items
+> #### **Request**
 >**Method:** GET
     - Url: [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/32eb9c16-076e-4140-80ed-b5d40c5fe064/category/3b358d32-1463-42c4-a540-b0c80df2db6f/items](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/32eb9c16-076e-4140-80ed-b5d40c5fe064/category/3b358d32-1463-42c4-a540-b0c80df2db6f/items)
 >**url includes congregation guid, language guid and category guid**
-> ##### **Response**
+> #### **Response**
 >**Format:**
 ```json
 {
@@ -198,10 +198,10 @@ IMAGEN
 
 ***
 
-### **User searches publications**
+## **User searches publications**
 IMAGEN
-#### ==Search==
-> ##### **Request**
+### Search
+> #### **Request**
 >**Method:** GET
 >**Url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/search](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/language/bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe/search)
 >**url includes the congregation as well as the selected language**
@@ -213,7 +213,7 @@ IMAGEN
     Offset: number? (used after first search to load more)
 }
 ```
-> ##### **Response**
+> #### **Response**
 >**Format:**
 ```json
 {
@@ -239,26 +239,26 @@ IMAGEN
 
 ***
 
-### **User clicks on *Load More* button**
-> ##### **Request**
+## **User clicks on *Load More* button**
+> #### **Request**
 >**Method:** GET
->**Url:** Same url that **==Search==** but getting next 10 using Offset parameter to determine the amount loaded.
->**Response:** same that **==Search==**
+>**Url:** Same url that **Search** but getting next 10 using Offset parameter to determine the amount loaded.
+>**Response:** same that **Search**
 
 ***
 
-### **User clear criterion and clicks *search* button**
-#### ==Search==
+## **User clear criterion and clicks *search* button**
+### Search
  
 ***
-### **User clicks on item in results**
+## **User clicks on item in results**
 IMAGEN
 
 >  - Open add form.
 > - User enters the requested quantity
 >  - Click next button
-#### ==Validates entered quantity for item requested.==
-> ##### **Request**
+### Validates entered quantity for item requested.
+> #### **Request**
 >**Method:** POST
 >**Url:** [https://my.jw-union.org/congregation-literature/api/literature-item-quantity-validation/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/9c71da44-d037-4510-a8ba-49827d99a090/validate](https://my.jw-union.org/congregation-literature/api/literature-item-quantity-validation/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/9c71da44-d037-4510-a8ba-49827d99a090/validate)
 >**url includes congregation guid as well as item guid.**
@@ -277,8 +277,8 @@ IMAGEN
     newQuantity: number
 }
 ```
-#### ==User submit the change==
-> ##### **Request**
+### User submit the change
+> #### **Request**
 >**Method:** POST
 >**url:** [https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/d4ef7912-91d2-405e-97b9-3a02d48afe1e](https://my.jw-union.org/congregation-literature/api/request-literature/16d13cf5-8b2a-4613-9785-bc91fc0d5144/item/d4ef7912-91d2-405e-97b9-3a02d48afe1e)
 >**url includes congregation guid as well as item guid.**
