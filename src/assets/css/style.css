@@ -1,9 +1,9 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: 
-    Template URI: 
-    Description: 
-    Author: 
+    Template Name:
+    Template URI:
+    Description:
+    Author:
     Author:
     Version: 1.0
 
@@ -19,7 +19,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-    1. COMMON css 
+    1. COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");
 body {
@@ -268,7 +268,7 @@ p {
     -o-transform: rotate(-360deg);
     transform: rotate(-360deg); } }
 /*===========================
-    2.HEADER css 
+    2.HEADER css
 ===========================*/
 .header-area {
   padding: 30px 0;
@@ -366,7 +366,7 @@ p {
         color: #fe7865; }
 
 /*===========================
-    3.SLIDER css 
+    3.SLIDER css
 ===========================*/
 .slider-active .slick-dots {
   position: absolute;
@@ -554,7 +554,7 @@ p {
           width: 65%; } }
 
 /*===========================
-    4.DESCOUNT PRODUCT css 
+    4.DESCOUNT PRODUCT css
 ===========================*/
 @media (max-width: 767px) {
   .discount-product {
@@ -615,7 +615,7 @@ p {
     transform: scale(1.2); }
 
 /*===========================
-     5.PRODUCT CARD css 
+     5.PRODUCT CARD css
 ===========================*/
 @media (max-width: 767px) {
   .product-area {
@@ -797,7 +797,7 @@ p {
     overflow: visible; }
 
 /*===========================
-     5.SERVICES css 
+     5.SERVICES css
 ===========================*/
 .services-area {
   background-color: #fffaf6; }
@@ -823,7 +823,7 @@ p {
     color: #fe7865; }
 
 /*===========================
-     6.SHOWCASE css 
+     6.SHOWCASE css
 ===========================*/
 @media (max-width: 767px) {
   .showcase-area {
@@ -903,7 +903,7 @@ p {
     cursor: pointer; }
 
 /*===========================
-     6.TEAM css 
+     6.TEAM css
 ===========================*/
 .team-area {
   background-color: #fffaf6; }
@@ -967,7 +967,7 @@ p {
     box-shadow: 0px 0px 7px 0px rgba(254, 119, 101, 0.55); }
 
 /*===========================
-     7.TESTIMONIAL css 
+     7.TESTIMONIAL css
 ===========================*/
 .testimonial-area {
   position: relative; }
@@ -1028,7 +1028,7 @@ p {
     line-height: 90px; }
 
 /*===========================
-     7.BLOG css 
+     7.BLOG css
 ===========================*/
 @media (max-width: 767px) {
   .blog-area {
@@ -1109,7 +1109,7 @@ p {
     transform: scale(1.1); }
 
 /*===========================
-       8.CONTACT css 
+       8.CONTACT css
 ===========================*/
 .contact-area .contact-title .title {
   font-size: 60px;
@@ -1191,7 +1191,7 @@ p.form-message.error {
   color: #f00; }
 
 /*===========================
-       9.FOOTER css 
+       9.FOOTER css
 ===========================*/
 .footer-area {
   position: relative; }
@@ -1199,7 +1199,7 @@ p.form-message.error {
 .footer-area::before {
   position: absolute;
   content: '';
-  background-image: url(../images/footer-bg.png);
+  background-image: url(/assets/images/footer-bg.png);
   background-repeat: no-repeat;
   background-position: top center;
   width: 100%;

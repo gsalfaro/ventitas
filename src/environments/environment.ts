@@ -12,7 +12,7 @@ export const environment = {
     authDomain: 'ventitas-c666f.firebaseapp.com',
     messagingSenderId: '511407967251',
   },
-  production: false
+  production: true
 };
 
 /*

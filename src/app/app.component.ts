@@ -16,7 +16,10 @@ import { Usuario } from './models/usuario';
 })
 export class AppComponent {
   title = 'app-ventitas';
-  articulos$: Observable<Articulo[]>;
+
+  articulos$ = this.store.select(fromReducer.selectArticlesBySelectCategory);
+  categorias$ = this.store.select(fromReducer.selectCategorias);
+
   isLoggued$: boolean = false;
   loguedUser$: Observable<Usuario | null>;
   loguedUser: Usuario | null = null;
@@ -25,7 +28,7 @@ export class AppComponent {
     private store: Store<ArticuloState>,
     usuarioService: UsuarioService
   ) {
-    this.articulos$ = store.select(fromReducer.selectAllArticles);
+
     usuarioService.isLoggedIn().subscribe((loggedIn) => {
       this.isLoggued$ = loggedIn;
     });
@@ -33,14 +36,21 @@ export class AppComponent {
     this.loguedUser$ = store.select(fromUsuarioReducer.selectLoguedUser);
     this.loguedUser$.subscribe((user) => {
       if (user != null) {
-        this.loguedUser = user;        
+        this.loguedUser = user;
       }
     });
 
   }
 
-  public modalApartar(id?: string) {
-    alert(id);
+  public seleccionarCategoria(categoria: string) {
+    console.log(categoria);
+    this.store.dispatch(fromActions.SelectCategoria({categoria}));
+  }
+
+  public modalApartar(articulo: Articulo) {
+
+    window.open("https://api.whatsapp.com/send?phone=52"+articulo.Telefono+"&text=Me interesa el artículo con código: "+articulo.Codigo+" Precio:"+articulo.Precio, "_blank");
+
   }
 
   ngOnInit() {

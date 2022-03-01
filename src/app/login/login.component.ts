@@ -3,7 +3,8 @@ import { FormControl, FormGroup } from '@angular/forms';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { Observable, tap } from 'rxjs';
 import { Usuario } from 'src/app/models/usuario';
-import * as fromReducer from '../reducers/usuario.reducer';
+import * as fromUsuarioReducer from '../reducers/usuario.reducer';
+import * as fromArticuloReducer from '../reducers/articulo.reducer';
 import * as fromActions from '../actions/usuario.actions';
 import * as fromArticuloActions from '../actions/articulo.actions';
 import { Store } from '@ngrx/store';
@@ -22,6 +23,8 @@ export class LoginComponent implements OnInit {
   isLoggued$: boolean = false;
   loguedUser$: Observable<Usuario | null>;
   loguedUser: Usuario | null = null;
+  totalArticulos$: Observable<number>;
+  totalArticulos?: number;
 
   constructor(
     private store: Store<UsuarioState>,
@@ -29,13 +32,17 @@ export class LoginComponent implements OnInit {
     private usuarioService: UsuarioService,
     private articuloService: ArticuloService
   ) {
-    this.usuarios$ = store.select(fromReducer.selectAllUsuarios);
+
+    this.totalArticulos$ = this.store.select(fromArticuloReducer.articlesCount);
+    this.totalArticulos$.subscribe(x => this.totalArticulos = x);
+
+    this.usuarios$ = store.select(fromUsuarioReducer.selectAllUsuarios);
 
     usuarioService.isLoggedIn().subscribe((loggedIn) => {
       this.isLoggued$ = loggedIn;
     });
 
-    this.loguedUser$ = store.select(fromReducer.selectLoguedUser);
+    this.loguedUser$ = store.select(fromUsuarioReducer.selectLoguedUser);
     this.loguedUser$.subscribe(user => {
       if(user != null) {
         this.loguedUser = user;
@@ -70,6 +77,7 @@ export class LoginComponent implements OnInit {
 
   nuevoArticuloForm = new FormGroup({
     descripcion: new FormControl(''),
+    categoria: new FormControl(''),
     precio: new FormControl(''),
     imagen1: new FormControl(''),
     imagen2: new FormControl(''),
@@ -82,9 +90,6 @@ export class LoginComponent implements OnInit {
 
       if (username && password) {
 
-      console.log(username.value);
-      console.log(password.value);
-      
         this.store.dispatch(
           fromActions.Login({
             username: username.value,
@@ -100,23 +105,28 @@ export class LoginComponent implements OnInit {
   }
 
   onNuevoArticuloSubmit() {
+
     let descripcion = this.nuevoArticuloForm.get('descripcion');
+    let categoria = this.nuevoArticuloForm.get('categoria');
     let precio = this.nuevoArticuloForm.get('precio');
     let imagen1 = this.nuevoArticuloForm.get('imagen1');
     let imagen2 = this.nuevoArticuloForm.get('imagen2');
 
-    if (descripcion && precio && imagen1 && this.loguedUser) {
+    if (descripcion && precio && imagen1 && categoria && this.loguedUser) {
       let nuevoArticulo = {
+        Codigo: this.totalArticulos ?? 0 + 1 + "",
+        Categoria: categoria.value,
         Descripcion: descripcion.value,
         Precio: precio.value,
         Imagenes: [imagen1.value],
         Usuario: this.loguedUser.id,
+        Telefono : this.loguedUser.telefono,
       } as Articulo;
 
       if (imagen2?.value) {
         nuevoArticulo.Imagenes.push(imagen2.value);
       }
-      
+
       this.store.dispatch(
         fromArticuloActions.AddArticulo({ articulo: nuevoArticulo })
       );

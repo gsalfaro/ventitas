@@ -9,6 +9,7 @@ export interface AppState {
 
 export interface ArticuloState extends EntityState<Articulo> {
   selectedArticuloId: string;
+  selectedCategory: string;
 }
 
 export interface UsuarioState extends EntityState<Usuario> {

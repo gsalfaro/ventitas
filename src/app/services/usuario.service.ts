@@ -23,7 +23,7 @@ export class UsuarioService {
   private logger = new Subject<boolean>();
 
   isLoggedIn(): Observable<boolean> {
-    let user = localStorage.getItem(this.storageVar);    
+    let user = localStorage.getItem(this.storageVar);
 
     this.loggedIn = (user != null);
     this.logger.next(this.loggedIn);
@@ -38,8 +38,7 @@ export class UsuarioService {
         if (username === usuario.nombre && password === usuario.password) {
           localStorage.setItem(this.storageVar, JSON.stringify(usuario));
           this.loggedIn = true;
-          this.logger.next(this.loggedIn);
-          console.log("OK");
+          //this.logger.next(this.loggedIn);
         }
       });
     });

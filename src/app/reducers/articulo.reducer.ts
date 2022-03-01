@@ -11,6 +11,7 @@ import * as fromAdapter from './articulo.adapter';
 
 export const initialState: ArticuloState = fromAdapter.adapter.getInitialState({
   selectedArticuloId: '',
+  selectedCategory: '',
 });
 // Creating reducer
 const _articleReducer = createReducer(
@@ -27,7 +28,10 @@ const _articleReducer = createReducer(
   on(fromActions.LoadArticulosSuccess, (state, { payload }) => {
     state = fromAdapter.adapter.removeAll({ ...state, selectedArticleId: '' });
     return fromAdapter.adapter.addMany(payload.articulos, state);
-  })
+  }),
+  on(fromActions.SelectCategoria, (state, { categoria }) => {
+    return { ...state, selectedCategory: categoria };
+  }),
 );
 
 export function articleReducer(state: any, action: Action) {
@@ -53,9 +57,40 @@ export const selectAllArticles = createSelector(
   getArticleState,
   fromAdapter.selectAllArticulos
 );
+
+export const getSelectedCategory = createSelector(
+  getArticleState,
+  (state: ArticuloState) => {
+    console.log('getSelectedCategory', state.selectedCategory);
+    return state.selectedCategory;
+  }
+);
+
+export const selectArticlesBySelectCategory = createSelector(
+  selectAllArticles,
+  getSelectedCategory,
+  (state, selectedCategory) => {
+    console.log('selectArticlesBySelectCategory', selectedCategory);
+    return selectedCategory
+      ? state.filter((articulo) => articulo.Categoria === selectedCategory)
+      : state;
+  }
+);
+
 export const articlesCount = createSelector(
   getArticleState,
   fromAdapter.articulosCount
+);
+
+export const selectCategorias = createSelector(
+  selectAllArticles,
+  (articulos) => {
+    const categorias = new Set<string>();
+    articulos.forEach((articulo) => {
+      categorias.add(articulo.Categoria);
+    });
+    return Array.from(categorias);
+  }
 );
 
 export const selectCurrentArticleId = createSelector(

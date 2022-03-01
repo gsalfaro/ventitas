@@ -10,7 +10,13 @@ enum ArticuloActionTypes {
   REMOVE_ARTICLE = '[ARTICLE] Remove Articulo',
   LOAD_ALL_ARTICLES = '[ARTICLE] Load All Articulos',
   LOAD_ALL_ARTICLES_SUCCESS = '[ARTICLE] Load All Articulos Success',
+  SELECT_CATEGORIA = '[CATEGORIA] Select Categoria',
 }
+
+export const SelectCategoria = createAction(
+  ArticuloActionTypes.SELECT_CATEGORIA,
+  props<{ categoria: string}>()
+);
 
 export const AddArticulo = createAction(
   ArticuloActionTypes.ADD_ARTICLE,

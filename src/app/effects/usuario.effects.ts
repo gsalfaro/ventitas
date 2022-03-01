@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Actions, createEffect, ofType } from '@ngrx/effects';
 import { Store } from '@ngrx/store';
 import { of } from 'rxjs';
-import { map, switchMap, tap } from 'rxjs/operators';
+import { map, switchMap, take, tap } from 'rxjs/operators';
 import * as fromActions from '../actions/usuario.actions';
 import { UsuarioService } from '../services/usuario.service';
 import { UsuarioState } from '../states/app.states';
@@ -47,7 +47,8 @@ export class UsuarioEffects {
   loginSuccess$ = createEffect(() =>
     this.actions$.pipe(
       ofType(fromActions.LoginSuccess),
-      tap(() => window.location.reload())
+      take(1),
+      tap(() =>window.location.reload())
     )
   );
 

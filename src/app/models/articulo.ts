@@ -1,5 +1,8 @@
 export interface Articulo {
   id: string;
+  Codigo: string;
+  Categoria: string;
+  Telefono: string;
   Descripcion: string;
   Precio: number;
   Apartado: boolean;

@@ -1,36 +1,36 @@
 $(function() {
-    
+
     "use strict";
-    
-    
+
+
     //===== Prealoder
-    
+
     $(window).on('load', function(event) {
         $('.preloader').delay(500).fadeOut(500);
     });
-    
-    
-    //===== Mobile Menu 
-    
+
+
+    //===== Mobile Menu
+
     $(".navbar-toggler").on('click', function() {
         $(this).toggleClass('active');
     });
-    
+
     $(".navbar-nav a").on('click', function() {
         $(".navbar-toggler").removeClass('active');
     });
-    
-    
+
+
     //===== close navbar-collapse when a  clicked
-    
+
     $(".navbar-nav a").on('click', function () {
         $(".navbar-collapse").removeClass("show");
     });
-    
-    
+
+
     //===== Sticky
-    
-    $(window).on('scroll',function(event) {    
+
+    $(window).on('scroll',function(event) {
         var scroll = $(window).scrollTop();
         if (scroll < 10) {
             $(".header-area").removeClass("sticky");
@@ -38,18 +38,18 @@ $(function() {
             $(".header-area").addClass("sticky");
         }
     });
-    
-    
+
+
     //===== One Page Nav
-    
+
     $('#nav').onePageNav({
         filter: ':not(.external)',
         currentClass: 'active',
     });
-    
-    
+
+
     //=====  Slick
-    
+
     function mainSlider() {
         var BasicSlider = $('.slider-active');
         BasicSlider.on('init', function(e, slick) {
@@ -88,11 +88,13 @@ $(function() {
         }
     }
     mainSlider();
-    
-    
-    
+
+
+
     //=====  Slick product items active
-    
+
+    console.log("test",$('.product-items-active').length);
+
     $('.product-items-active').slick({
         dots: false,
         infinite: true,
@@ -132,10 +134,10 @@ $(function() {
         }
         ]
     });
-    
-    
+
+
     //=====  Slick Showcase active
-    
+
     $('.showcase-active').slick({
         dots: false,
         infinite: true,
@@ -160,10 +162,10 @@ $(function() {
         }
         ]
     });
-    
+
 
     //=====  Slick testimonial active
-    
+
     $('.testimonial-active').slick({
         dots: false,
         autoplay: true,
@@ -174,18 +176,18 @@ $(function() {
         arrows:false,
         adaptiveHeight: true,
     });
-    
-    
+
+
     //====== Magnific Popup
-    
+
     $('.Video-popup').magnificPopup({
         type: 'iframe'
         // other options
     });
-    
-    
+
+
     //===== Back to top
-    
+
     // Show or hide the sticky footer button
     $(window).on('scroll', function(event) {
         if($(this).scrollTop() > 600){
@@ -194,17 +196,17 @@ $(function() {
             $('.back-to-top').fadeOut(200)
         }
     });
-    
+
     //Animate the scroll to yop
     $('.back-to-top').on('click', function(event) {
         event.preventDefault();
-        
+
         $('html, body').animate({
             scrollTop: 0,
         }, 1500);
     });
-    
-    
-    
-    
+
+
+
+
 });

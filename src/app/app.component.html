@@ -3,37 +3,67 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-25">
-                        <h3 class="title mb-15">Bazar de Marianita</h3>
-                        <p>Aparta las prendas que te gusten, solo envíame tus datos para que pueda pasar a dejártelas.</p>
+                        <h3 class="title mb-15">Ventitas</h3>
+                        <p>Aparta las prendas que te gusten, solo envíanos un mensaje por whatsapp para acordar el pago y la entrega</p>
                     </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6" *ngFor="let item of articulos$ | async">
-                    <div class="single-blog mt-30" *ngIf="!item.Vendido && (!isLoggued$ || (loguedUser && item.Usuario == loguedUser.id))">
-
-                        <div class="blog-image">
-                            <app-images-carousel [images]="item.Imagenes"></app-images-carousel>
-                        </div>
-                        <div class="blog-content">
-                            <div class="content">
-                                <h4 class="title"><a href="/"> {{ item.Descripcion}} </a></h4>
-                                <span>$ {{item.Precio}}</span>
-                            </div>
-                            <div class="meta d-flex justify-content-between align-items-center">
-                                <div class="meta-admin d-flex align-items-center">
-                                    <div class="admin-title">
-                                        <h6 class="title"><a href="/">{{ item.Apartado ? "Apartado" : "Disponible"}}</a></h6>
-                                    </div>
-                                </div>  <!-- meta admin -->
-                                <div class="meta-icon" *ngIf="!item.Apartado">
-                                    <a class="btn" href="" (click)="modalApartar(item.id)">Apartar</a>
-                                </div> <!-- meta icon -->
-                            </div> <!-- meta -->
-                        </div>
-                    </div> <!-- single blog -->
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
-<router-outlet></router-outlet>    
+
+<!--====== PRODUCT PART START ======-->
+
+<section id="product" class="product-area pt-30 pb-30">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-3 col-md-4">
+              <div class="collection-menu text-center mt-30">
+                  <h4 class="collection-tilte">Nuestra colección</h4>
+                  <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a *ngFor="let categoria of categorias$ | async; let indice = index" class="{{ indice == 1 ? 'active' : '' }}" id="v-pills-{{ categoria }}" data-toggle="pill" href="#v-pills-{{ categoria }}" role="tab" (click)="seleccionarCategoria(categoria)">{{ categoria }}</a>
+                  </div> <!-- nav -->
+              </div> <!-- collection menu -->
+          </div>
+          <div class="col-lg-9 col-md-8">
+              <div class="tab-content" id="v-pills-tabContent">
+
+                  <div *ngFor="let categoria of categorias$ | async; let indice = index" class="tab-pane fade show {{ indice == 1 ? 'active' : '' }}" id="v-pills-{{ categoria }}" role="tabpanel">
+                      <div class="product-items mt-30">
+                          <div class="row product-items-active">
+                              <div class="col-md-4" *ngFor="let item of articulos$ | async">
+                                  <div class="single-product-items" *ngIf="!item.Vendido && (!isLoggued$ || (loguedUser && item.Usuario == loguedUser.id))">
+                                      <div class="product-item-image">
+                                          <app-images-carousel [images]="item.Imagenes"></app-images-carousel>
+                                      </div>
+                                      <div class="product-item-content text-center mt-30">
+                                          <h5 class="product-title"><a href="#" onclick="return false;">{{ item.Descripcion}}</a></h5>
+                                          <ul class="rating">
+                                              <li><i class="lni-star-filled"></i></li>
+                                              <li><i class="lni-star-filled"></i></li>
+                                              <li><i class="lni-star-filled"></i></li>
+                                              <li><i class="lni-star-filled"></i></li>
+                                              <li><i class="lni-star-filled"></i></li>
+                                          </ul>
+                                          <span class="regular-price">{{ item.Precio | currency}}</span>
+                                          <div class="product-action" *ngIf="!item.Vendido && !isLoggued$">
+                                            <a class="btn" href="" (click)="modalApartar(item)">Apartar</a>
+                                          </div>
+                                          <div class="product-action" *ngIf="isLoggued$">
+                                            <a class="btn" href="" (click)="modalApartar(item)">Apartado</a>
+                                          </div>
+                                      </div>
+                                  </div> <!-- single product items -->
+                              </div>
+                          </div> <!-- row -->
+                      </div> <!-- product items -->
+                  </div> <!-- tab pane -->
+
+              </div> <!-- tab content -->
+          </div>
+      </div> <!-- row -->
+  </div> <!-- container -->
+</section>
+
+<!--====== PRODUCT PART ENDS ======-->
+
+<router-outlet></router-outlet>

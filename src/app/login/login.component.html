@@ -7,7 +7,7 @@
   <li class="nav-item active" >
     <a href="#" (click)="abrirModalArticulo()">
       Agregar artículo</a>
-  </li>  
+  </li>
   <li class="nav-item active">
     <a href="#" (click)="logout()">
       Salir
@@ -18,7 +18,7 @@
 </div>
 
 <ng-template #myModalLogin let-modal>
- 
+
   <div class="modal-content">
     <div class="modal-header">
       <h5 class="modal-title">Iniciar sesión</h5>
@@ -44,11 +44,11 @@
       </form>
     </div>
   </div>
- 
+
 </ng-template>
 
 <ng-template #myModalNuevoArticulo let-modal>
- 
+
   <div class="modal-content modal-lg">
     <div class="modal-header">
       <h5 class="modal-title">Agregar artículo</h5>
@@ -61,6 +61,19 @@
       <div class="form-group">
         <label>Descripción</label>
         <input class="form-control" type="text" name="descripcion" placeholder="Descripción del artículo" formControlName="descripcion" />
+      </div>
+      <div class="form-group">
+        <label>Categoria</label>
+        <select class="form-control" name="categoria" formControlName="categoria">
+          <option value="Vestidos">Vestidos</option>
+          <option value="Pantalones">Pantalones</option>
+          <option value="Blusas">Blusas</option>
+          <option value="Shorts">Shorts</option>
+          <option value="Camisas">Camisas</option>
+          <option value="Calzado">Calzado</option>
+          <option value="Accesorios">Accesorios</option>
+          <option value="Otros">Otros</option>
+        </select>
       </div>
       <div class="form-group">
         <label>Precio</label>
@@ -82,5 +95,5 @@
       </form>
     </div>
   </div>
- 
+
 </ng-template>
