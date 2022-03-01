@@ -92,9 +92,6 @@ $(function() {
 
 
     //=====  Slick product items active
-
-    console.log("test",$('.product-items-active').length);
-
     $('.product-items-active').slick({
         dots: false,
         infinite: true,

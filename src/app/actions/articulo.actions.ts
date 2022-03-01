@@ -7,6 +7,7 @@ enum ArticuloActionTypes {
   ADD_ARTICLE_SUCCESS = '[ARTICLE] Add Articulo Success',
   ADD_ARTICLE_ERROR = '[ARTICLE] Add Articulo Error',
   UPDATE_ARTICLE = '[ARTICLE] Update Articulo',
+  UPDATE_ARTICLE_SUCCESS = '[ARTICLE] Update Articulo Success',
   REMOVE_ARTICLE = '[ARTICLE] Remove Articulo',
   LOAD_ALL_ARTICLES = '[ARTICLE] Load All Articulos',
   LOAD_ALL_ARTICLES_SUCCESS = '[ARTICLE] Load All Articulos Success',
@@ -32,8 +33,14 @@ export const AddArticuloError = createAction(
 
 export const UpdateArticulo = createAction(
   ArticuloActionTypes.UPDATE_ARTICLE,
-  props<{ payload: { articulo: Update<Articulo> } }>()
+  props<{ articulo: Articulo } >()
 );
+
+export const UpdateArticuloSuccess = createAction(
+  ArticuloActionTypes.UPDATE_ARTICLE_SUCCESS,
+  props<{ id: string, changes : {}} >()
+);
+
 export const RemoveArticulo = createAction(
   ArticuloActionTypes.REMOVE_ARTICLE,
   props<{ payload: { id: string } }>()

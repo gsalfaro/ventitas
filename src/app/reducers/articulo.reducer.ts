@@ -19,8 +19,10 @@ const _articleReducer = createReducer(
   on(fromActions.AddArticuloSuccess, (state, articulo) =>
     fromAdapter.adapter.addOne(articulo.articulo, state)
   ),
-  on(fromActions.UpdateArticulo, (state, { payload }) =>
-    fromAdapter.adapter.updateOne(payload.articulo, state)
+  on(fromActions.UpdateArticuloSuccess, (state, { id , changes }) =>{
+    console.log(id, changes);
+    return fromAdapter.adapter.updateOne({id, changes : changes}, state)
+  }
   ),
   on(fromActions.RemoveArticulo, (state, { payload }) =>
     fromAdapter.adapter.removeOne(payload.id, state)
@@ -61,7 +63,6 @@ export const selectAllArticles = createSelector(
 export const getSelectedCategory = createSelector(
   getArticleState,
   (state: ArticuloState) => {
-    console.log('getSelectedCategory', state.selectedCategory);
     return state.selectedCategory;
   }
 );
@@ -70,8 +71,7 @@ export const selectArticlesBySelectCategory = createSelector(
   selectAllArticles,
   getSelectedCategory,
   (state, selectedCategory) => {
-    console.log('selectArticlesBySelectCategory', selectedCategory);
-    return selectedCategory
+    return selectedCategory != ''
       ? state.filter((articulo) => articulo.Categoria === selectedCategory)
       : state;
   }

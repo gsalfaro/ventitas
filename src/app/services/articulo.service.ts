@@ -47,4 +47,8 @@ export class ArticuloService {
   delete(id: string): Promise<void> {
     return this.firestoreRef.doc(id).delete();
   }
+
+  get(id: string): Observable<Articulo | undefined> {
+    return this.firestoreRef.doc<Articulo>(id).valueChanges();
+  }
 }

@@ -43,4 +43,17 @@ export class ArticleEffects {
     )
   );
 
+  updateArticle$ = createEffect(() =>
+    this.actions$.pipe(
+      ofType(fromActions.UpdateArticulo),
+      switchMap((action) =>
+        this.articleService.update(action.articulo.id, {Vendido : action.articulo.Vendido}).then(() => {
+            return fromActions.UpdateArticuloSuccess({ id: action.articulo.id, changes: {Vendido : action.articulo.Vendido} });
+          }
+        )
+      )
+    )
+  );
+
+
 }

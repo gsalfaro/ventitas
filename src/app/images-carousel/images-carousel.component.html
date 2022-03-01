@@ -1,7 +1,7 @@
 <ngb-carousel *ngIf="images">
-  <ng-template ngbSlide *ngFor="let image of images">
+  <ng-template ngbSlide *ngFor="let image of images; let indice = index">
     <div class="picsum-img-wrapper">
-      <img [src]="image" alt="Random first slide">
+      <img src="{{ image }}" alt="Random first slide" (click)="open(indice)" style="cursor: pointer;">
     </div>
     <div class="carousel-caption">
       <h3></h3>

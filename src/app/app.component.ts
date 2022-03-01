@@ -8,6 +8,7 @@ import { Articulo } from 'src/app/models/articulo';
 import { ArticuloState } from './states/app.states';
 import { UsuarioService } from './services/usuario.service';
 import { Usuario } from './models/usuario';
+import Swal from 'sweetalert2'
 
 @Component({
   selector: 'app-root',
@@ -26,7 +27,7 @@ export class AppComponent {
 
   constructor(
     private store: Store<ArticuloState>,
-    usuarioService: UsuarioService
+    usuarioService: UsuarioService,
   ) {
 
     usuarioService.isLoggedIn().subscribe((loggedIn) => {
@@ -43,7 +44,6 @@ export class AppComponent {
   }
 
   public seleccionarCategoria(categoria: string) {
-    console.log(categoria);
     this.store.dispatch(fromActions.SelectCategoria({categoria}));
   }
 
@@ -51,6 +51,11 @@ export class AppComponent {
 
     window.open("https://api.whatsapp.com/send?phone=52"+articulo.Telefono+"&text=Me interesa el artículo con código: "+articulo.Codigo+" Precio:"+articulo.Precio, "_blank");
 
+  }
+
+  public  regresarADisponible(articulo: Articulo) {
+    articulo.Vendido = false;
+    this.store.dispatch(fromActions.UpdateArticulo({ articulo }));
   }
 
   ngOnInit() {

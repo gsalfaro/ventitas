@@ -19,6 +19,9 @@ import { ArticuloService } from './services/articulo.service';
 import { UsuarioService } from './services/usuario.service';
 import { UsuarioEffects } from './effects/usuario.effects';
 
+import { LightboxModule } from 'ngx-lightbox';
+import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
+
 @NgModule({
   declarations: [AppComponent, LoginComponent, ImagesCarouselComponent],
   imports: [
@@ -30,6 +33,8 @@ import { UsuarioEffects } from './effects/usuario.effects';
     provideFirestore(() => getFirestore()),
     NgbModule,
     ReactiveFormsModule,
+    LightboxModule,
+    SweetAlert2Module.forRoot()
   ],
   providers: [ArticuloService, UsuarioService],
   bootstrap: [AppComponent, LoginComponent],

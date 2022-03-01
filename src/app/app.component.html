@@ -20,7 +20,8 @@
               <div class="collection-menu text-center mt-30">
                   <h4 class="collection-tilte">Nuestra colección</h4>
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a *ngFor="let categoria of categorias$ | async; let indice = index" class="{{ indice == 1 ? 'active' : '' }}" id="v-pills-{{ categoria }}" data-toggle="pill" href="#v-pills-{{ categoria }}" role="tab" (click)="seleccionarCategoria(categoria)">{{ categoria }}</a>
+                    <a class="active" id="v-pills-todos" data-toggle="pill" href="#" role="tab" onclick="return false;" (click)="seleccionarCategoria('')">Todos</a>
+                    <a *ngFor="let categoria of categorias$ | async; let indice = index" id="v-pills-{{ categoria }}" data-toggle="pill" href="#v-pills-{{ categoria }}" role="tab" (click)="seleccionarCategoria(categoria)" onclick="return false;">{{ categoria }}</a>
                   </div> <!-- nav -->
               </div> <!-- collection menu -->
           </div>
@@ -30,9 +31,9 @@
                   <div *ngFor="let categoria of categorias$ | async; let indice = index" class="tab-pane fade show {{ indice == 1 ? 'active' : '' }}" id="v-pills-{{ categoria }}" role="tabpanel">
                       <div class="product-items mt-30">
                           <div class="row product-items-active">
-                              <div class="col-md-4" *ngFor="let item of articulos$ | async">
-                                  <div class="single-product-items" *ngIf="!item.Vendido && (!isLoggued$ || (loguedUser && item.Usuario == loguedUser.id))">
-                                      <div class="product-item-image">
+                              <div class="col-md-4" *ngFor="let item of articulos$ | async" style="display: {{ (!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id) ? 'block' : 'none' }};">
+                                  <div class="single-product-items mt-3" *ngIf="(!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id)">
+                                      <div>
                                           <app-images-carousel [images]="item.Imagenes"></app-images-carousel>
                                       </div>
                                       <div class="product-item-content text-center mt-30">
@@ -46,10 +47,12 @@
                                           </ul>
                                           <span class="regular-price">{{ item.Precio | currency}}</span>
                                           <div class="product-action" *ngIf="!item.Vendido && !isLoggued$">
-                                            <a class="btn" href="" (click)="modalApartar(item)">Apartar</a>
+                                            <a class="main-btn mt-30" href=""
+                                            [swal]="{ title: 'Si deseas apartar este artículo envía el mensaje por whatsapp que se abrirá a continuación, envíanos tus datos y la prenda quedará apartada automaticamente', showDenyButton: true, denyButtonText: 'Cancelar' }"
+                                            (confirm)="modalApartar(item)">Comprar</a>
                                           </div>
-                                          <div class="product-action" *ngIf="isLoggued$">
-                                            <a class="btn" href="" (click)="modalApartar(item)">Apartado</a>
+                                          <div class="product-action" *ngIf="isLoggued$ && item.Vendido">
+                                            <a class="main-btn mt-30" href="" onclick="return false;" (click)="regresarADisponible(item)">Regresar a disponible</a>
                                           </div>
                                       </div>
                                   </div> <!-- single product items -->
