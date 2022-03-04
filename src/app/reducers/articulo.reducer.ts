@@ -20,7 +20,6 @@ const _articleReducer = createReducer(
     fromAdapter.adapter.addOne(articulo.articulo, state)
   ),
   on(fromActions.UpdateArticuloSuccess, (state, { id , changes }) =>{
-    console.log(id, changes);
     return fromAdapter.adapter.updateOne({id, changes : changes}, state)
   }
   ),
@@ -89,6 +88,7 @@ export const selectCategorias = createSelector(
     articulos.forEach((articulo) => {
       categorias.add(articulo.Categoria);
     });
+
     return Array.from(categorias);
   }
 );

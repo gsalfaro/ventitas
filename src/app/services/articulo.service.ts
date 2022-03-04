@@ -24,9 +24,8 @@ export class ArticuloService {
                 'https://drive.google.com/file/d/',
                 'https://drive.google.com/uc?id='
               )
-              .replace('/view?usp=sharing', '');
+              .replace('/view?usp=sharing', '&SameSite=None');
           }
-
           return item;
         });
       })

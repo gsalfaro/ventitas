@@ -8,7 +8,6 @@ import { Articulo } from 'src/app/models/articulo';
 import { ArticuloState } from './states/app.states';
 import { UsuarioService } from './services/usuario.service';
 import { Usuario } from './models/usuario';
-import Swal from 'sweetalert2'
 
 @Component({
   selector: 'app-root',

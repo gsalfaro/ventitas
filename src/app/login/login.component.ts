@@ -1,4 +1,4 @@
-import { Component, OnInit, TemplateRef, ViewChild } from '@angular/core';
+import { AfterViewInit, Component, OnInit, TemplateRef, ViewChild } from '@angular/core';
 import { FormControl, FormGroup } from '@angular/forms';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { Observable, tap } from 'rxjs';
@@ -13,6 +13,8 @@ import { UsuarioService } from '../services/usuario.service';
 import { Articulo } from '../models/articulo';
 import { ArticuloService } from '../services/articulo.service';
 
+import ArticulosData from '../../assets/json/articulos.json';
+
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
@@ -25,6 +27,8 @@ export class LoginComponent implements OnInit {
   loguedUser: Usuario | null = null;
   totalArticulos$: Observable<number>;
   totalArticulos?: number;
+
+  articulosData = ArticulosData;
 
   constructor(
     private store: Store<UsuarioState>,
@@ -102,6 +106,45 @@ export class LoginComponent implements OnInit {
     this.modalService.dismissAll();
 
     this.loginForm.reset();
+  }
+
+  numeroArticulo: number = 0;
+
+  agregarArticulosPorLotes(){
+
+    if(this.loguedUser != null){
+
+      if(this.numeroArticulo < this.articulosData.length){
+
+        let articulo = this.articulosData[this.numeroArticulo];
+
+        let nuevoArticulo = {
+          Codigo: articulo.Codigo,
+          Categoria: articulo.Categoria.trim(),
+          Descripcion: articulo.Descripcion.trim(),
+          Precio: articulo.Precio.toFixed(2),
+          Imagenes: [articulo.Imagenes[0].trim()],
+          Usuario: this.loguedUser?.id,
+          Telefono: this.loguedUser?.telefono,
+          Apartado: false,
+          Vendido: false,
+          Notas_comprador: "",
+          Numero_comprador: "",
+          Habitacion_comprador: "",
+        } as unknown as Articulo;
+
+        this.store.dispatch(
+          fromArticuloActions.AddArticulo({ articulo: nuevoArticulo })
+        );
+
+        this.numeroArticulo+= 1;
+
+        setTimeout(() => this.agregarArticulosPorLotes() , 1000);
+
+
+      }
+    }
+
   }
 
   onNuevoArticuloSubmit() {
