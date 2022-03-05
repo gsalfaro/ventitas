@@ -50,6 +50,9 @@ export class AppComponent {
 
     window.open("https://api.whatsapp.com/send?phone=52"+articulo.Telefono+"&text=Me interesa el artículo con código: "+articulo.Codigo+" Precio:"+articulo.Precio, "_blank");
 
+    articulo.Vendido = true;
+    this.store.dispatch(fromActions.UpdateArticulo({ articulo }));
+
   }
 
   public  regresarADisponible(articulo: Articulo) {
