@@ -31,29 +31,32 @@
                   <div class="tab-pane fade show active" role="tabpanel">
                       <div class="product-items mt-30">
                           <div class="row product-items-active">
-                              <div class="col-md-4" *ngFor="let item of articulos$ | async" style="display: {{ (!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id) ? 'block' : 'none' }};">
-                                  <div class="single-product-items mt-3" *ngIf="(!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id)">
+                              <div class="col-md-4 p-2" *ngFor="let item of articulos$ | async" style="display: {{ (!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id) ? 'block' : 'none' }};">
+                                  <div class="single-product-items mt-3" style="border:2px solid gray; box-shadow: 3px -3px rgba(48, 160, 168, 0.5);" *ngIf="(!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id)">
                                       <div>
                                           <app-images-carousel [images]="item.Imagenes"></app-images-carousel>
                                       </div>
-                                      <div class="product-item-content text-center mt-30">
-                                          <h5 class="product-title"><a href="#" onclick="return false;">{{ item.Descripcion}} <small>(Código: {{item.Codigo}})</small></a></h5>
-                                          <ul class="rating">
-                                              <li><i class="lni-star-filled"></i></li>
-                                              <li><i class="lni-star-filled"></i></li>
-                                              <li><i class="lni-star-filled"></i></li>
-                                              <li><i class="lni-star-filled"></i></li>
-                                              <li><i class="lni-star-filled"></i></li>
-                                          </ul>
-                                          <span class="regular-price">{{ item.Precio | currency}}</span>
-                                          <div class="product-action" *ngIf="!item.Vendido && !isLoggued$">
-                                            <a class="main-btn mt-30" href=""
-                                            [swal]="{ title: 'Si deseas apartar este artículo envía el mensaje por whatsapp que se abrirá a continuación, envíanos tus datos y la prenda quedará apartada automaticamente', showDenyButton: true, denyButtonText: 'Cancelar' }"
-                                            (confirm)="modalApartar(item)">Comprar</a>
-                                          </div>
-                                          <div class="product-action" *ngIf="isLoggued$ && item.Vendido">
-                                            <a class="main-btn mt-30" href="" onclick="return false;" (click)="regresarADisponible(item)">Regresar a disponible</a>
-                                          </div>
+                                      <div class="product-item-content text-center mt-3">
+
+                                        <h5 class="product-title"><a href="#" onclick="return false;">{{ item.Descripcion}} <small>(Código: {{item.Codigo}})</small></a></h5>
+                                        <div class="product-action" *ngIf="!item.Vendido && !isLoggued$">
+                                          <a class="main-btn mt-2" href=""
+                                          [swal]="{ title: 'Si deseas apartar este artículo envía el mensaje por whatsapp que se abrirá a continuación, envíanos tus datos y la prenda quedará apartada automaticamente', showDenyButton: true, denyButtonText: 'Cancelar' }"
+                                          (confirm)="modalApartar(item)">Comprar</a>
+                                        </div>
+                                        <div class="product-action" *ngIf="isLoggued$ && item.Vendido">
+                                          <a class="main-btn mt-2" href="" onclick="return false;" (click)="regresarADisponible(item)">Regresar a disponible</a>
+                                        </div>
+
+                                        <span class="regular-price">{{ item.Precio | currency}}</span>
+
+                                        <ul class="rating">
+                                            <li><i class="lni-star-filled"></i></li>
+                                            <li><i class="lni-star-filled"></i></li>
+                                            <li><i class="lni-star-filled"></i></li>
+                                            <li><i class="lni-star-filled"></i></li>
+                                            <li><i class="lni-star-filled"></i></li>
+                                        </ul>
                                       </div>
                                   </div> <!-- single product items -->
                               </div>
