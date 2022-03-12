@@ -1,7 +1,7 @@
 <ngb-carousel *ngIf="images">
   <ng-template ngbSlide *ngFor="let image of images; let indice = index">
     <div class="picsum-img-wrapper">
-      <img [lazyLoad]="image" alt="Random first slide" loading="lazy" style="max-width: 100%; height: auto;" (click)="open(indice)" style="cursor: pointer;">
+      <img src="{{ image }}" alt="Random first slide" loading="lazy" style="max-width: 100%; height: auto;" (click)="open(indice)" style="cursor: pointer;">
     </div>
     <div class="carousel-caption">
       <h3></h3>
