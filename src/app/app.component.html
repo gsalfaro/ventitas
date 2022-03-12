@@ -3,7 +3,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-25">
-                        <h3 class="title mb-15">Ventitas</h3>
+                        <h3 class="title mb-15"><strong>Venta virtual 2022</strong></h3>
                         <p>Aparta las prendas que te gusten, solo envíanos un mensaje por whatsapp para acordar el pago y la entrega</p>
                     </div> <!-- section title -->
                 </div>
@@ -18,10 +18,10 @@
       <div class="row">
           <div class="col-lg-3 col-md-4">
               <div class="collection-menu text-center mt-30">
-                  <h4 class="collection-tilte">{{ (articulosVisibles | async)?.length }} artículos</h4>
+                  <h4 class="collection-tilte">{{ (articulosVisibles | async)?.length }} Artículos</h4>
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="active" id="v-pills-todos" data-toggle="pill" href="#" role="tab" onclick="return false;" (click)="seleccionarCategoria('')">Todos</a>
-                    <a *ngFor="let categoria of categorias$ | async; let indice = index" id="v-pills-{{ categoria }}" data-toggle="pill" href="#" role="tab" (click)="seleccionarCategoria(categoria)" onclick="return false;">{{ categoria }}</a>
+                    <a class="active" id="v-pills-todos" data-toggle="pill" href="#" role="tab" onclick="false;" (click)="seleccionarCategoria('')">Todos</a>
+                    <a *ngFor="let categoria of categorias$ | async; let indice = index" id="v-pills-{{ categoria }}" data-toggle="pill" href="#" role="tab" (click)="seleccionarCategoria(categoria)" onclick="false;">{{ categoria }}</a>
                   </div> <!-- nav -->
               </div> <!-- collection menu -->
           </div>
@@ -31,21 +31,24 @@
                   <div class="tab-pane fade show active" role="tabpanel">
                       <div class="product-items mt-30">
                           <div class="row product-items-active">
-                              <div class="col-md-4 p-2" *ngFor="let item of articulos$ | async" style="display: {{ (!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id) ? 'block' : 'none' }};">
-                                  <div class="single-product-items mt-3" style="border:2px solid gray; box-shadow: 3px -3px rgba(48, 160, 168, 0.5);" *ngIf="(!item.Vendido && !isLoggued$) || (loguedUser && item.Usuario == loguedUser.id)">
+                              <div class="col-md-4 p-2" *ngFor="let item of articulos$ | async" style="display: {{ !isLoggued$ || (loguedUser && item.Usuario == loguedUser.id) ? 'block' : 'none' }};">
+                                  <div class="single-product-items mt-3" style="border:2px solid gray; box-shadow: 3px -3px rgba(48, 160, 168, 0.5);" *ngIf="!isLoggued$ || (loguedUser && item.Usuario == loguedUser.id)">
                                       <div>
                                           <app-images-carousel [images]="item.Imagenes"></app-images-carousel>
                                       </div>
                                       <div class="product-item-content text-center mt-3">
 
-                                        <h5 class="product-title"><a href="#" onclick="return false;">{{ item.Descripcion}} <small>(Código: {{item.Codigo}})</small></a></h5>
+                                        <h5 class="product-title"><a href="#" onclick="false;">{{ item.Descripcion}} <small>(Código: {{item.Codigo}})</small></a></h5>
                                         <div class="product-action" *ngIf="!item.Vendido && !isLoggued$">
                                           <a class="main-btn mt-2" href=""
                                           [swal]="{ title: 'Si deseas apartar este artículo envía el mensaje por whatsapp que se abrirá a continuación, envíanos tus datos y la prenda quedará apartada automaticamente', showDenyButton: true, denyButtonText: 'Cancelar' }"
                                           (confirm)="modalApartar(item)">Comprar</a>
                                         </div>
+                                        <div class="product-action" *ngIf="item.Vendido && !isLoggued$">
+                                          <a class="main-btn mt-2 " style="color:white; background-color: gray;" click="false">Vendido</a>
+                                        </div>
                                         <div class="product-action" *ngIf="isLoggued$ && item.Vendido">
-                                          <a class="main-btn mt-2" href="" onclick="return false;" (click)="regresarADisponible(item)">Regresar a disponible</a>
+                                          <a class="main-btn mt-2" href="" onclick="false;" (click)="regresarADisponible(item)">Regresar a disponible</a>
                                         </div>
 
                                         <span class="regular-price">{{ item.Precio | currency}}</span>
