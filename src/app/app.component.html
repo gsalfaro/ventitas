@@ -18,7 +18,7 @@
       <div class="row">
           <div class="col-lg-3 col-md-4">
               <div class="collection-menu text-center mt-30">
-                  <h4 class="collection-tilte">{{ (articulos$ | async)?.length }} artículos</h4>
+                  <h4 class="collection-tilte">{{ (articulosVisibles | async)?.length }} artículos</h4>
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                     <a class="active" id="v-pills-todos" data-toggle="pill" href="#" role="tab" onclick="return false;" (click)="seleccionarCategoria('')">Todos</a>
                     <a *ngFor="let categoria of categorias$ | async; let indice = index" id="v-pills-{{ categoria }}" data-toggle="pill" href="#" role="tab" (click)="seleccionarCategoria(categoria)" onclick="return false;">{{ categoria }}</a>
@@ -58,7 +58,7 @@
                                             <li><i class="lni-star-filled"></i></li>
                                         </ul>
                                       </div>
-                                  </div> <!-- single product items -->
+                                  </div>
                               </div>
                           </div> <!-- row -->
                       </div> <!-- product items -->

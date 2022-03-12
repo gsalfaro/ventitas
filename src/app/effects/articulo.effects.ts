@@ -30,7 +30,6 @@ export class ArticleEffects {
   createArticle$ = createEffect(() =>
     this.actions$.pipe(
       ofType(fromActions.AddArticulo),
-      tap((action) => {console.log(action.articulo);}),
       switchMap((action) =>
         this.articleService.create(action.articulo).then((data) => {
           if(data){

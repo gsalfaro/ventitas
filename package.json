@@ -27,6 +27,7 @@
     "@sweetalert2/ngx-sweetalert2": "^11.0.0",
     "bootstrap": "^4.6.0",
     "firebase": "^9.4.0",
+    "ng-lazyload-image": "^9.1.2",
     "ngx-lightbox": "^2.5.2",
     "rxfire": "^6.0.0",
     "rxjs": "~7.4.0",

@@ -1,0 +1,5106 @@
+[
+{
+"Codigo": 2157,
+  "Vendedor": "Manny",
+  "Descripcion": "Contenedor",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1F7yjfQnDaoBgou79PUApWCuB7cx-IBpr/view?usp=sharing"]
+},
+{
+"Codigo": 2158,
+  "Vendedor": "Manny",
+  "Descripcion": "Canasta",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1ymDPVrEPz9E442uqE7XDpud4D3GFi45-/view?usp=sharing"]
+},
+{
+"Codigo": 2159,
+  "Vendedor": "Manny",
+  "Descripcion": "Canasta ",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1oEKu5h5HOug86IpQYxwEM1swQo_Jlj-s/view?usp=sharing"]
+},
+{
+"Codigo": 2160,
+  "Vendedor": "Manny",
+  "Descripcion": "Alhajeros",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1z7HuB3EA8eE4wAP23C-_Ni8MsMgAs3uh/view?usp=sharing"]
+},
+{
+"Codigo": 2161,
+  "Vendedor": "Manny",
+  "Descripcion": "Canasta ",
+  "Precio": 20,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1n2TF9vxIDnCE_b49JytKUr5ChTTQTTrs/view?usp=sharing"]
+},
+{
+"Codigo": 2162,
+  "Vendedor": "Manny",
+  "Descripcion": "Corbata ",
+  "Precio": 150,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/128ngDifRt1R4aGcNA0ECLyWaEp669qHN/view?usp=sharing"]
+},
+{
+"Codigo": 2163,
+  "Vendedor": "Manny",
+  "Descripcion": "Canasta ",
+  "Precio": 15,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1nfDrfT_uFbTBJUJ8D338gh5gLOQVrsK8/view?usp=sharing"]
+},
+{
+"Codigo": 2164,
+  "Vendedor": "Manny",
+  "Descripcion": "Tirantes",
+  "Precio": 150,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1-okCBquTlWu3v-HJvMEqcgG_7ZUmW5HQ/view?usp=sharing"]
+},
+{
+"Codigo": 2165,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1KEoVAcVikL4dcLgRp_Cb8fhZOwtnz81v/view?usp=sharing"]
+},
+{
+"Codigo": 2166,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/18_6aDVKlBFo25GrGZ7RWV8v6GVkfzUe7/view?usp=sharing"]
+},
+{
+"Codigo": 2167,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1OOZfa0a5E0cZw0cVNkkoBrtOEhro8VCF/view?usp=sharing"]
+},
+{
+"Codigo": 2168,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1WV0UBhIHM-PamwCmiWY5eb-wplZ1yn1r/view?usp=sharing"]
+},
+{
+"Codigo": 2169,
+  "Vendedor": "Manny",
+  "Descripcion": "Cinturón ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1Pvc1FMxbCncsh7bBgu3ev0n2LDY0X_WQ/view?usp=sharing"]
+},
+{
+"Codigo": 2170,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1yzlD9GpiVn8PQA9Ld0K2xtHsZiHQW7rr/view?usp=sharing"]
+},
+{
+"Codigo": 2171,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 25,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/181-pfeXs94dORHdjXspGGb_k-e83Uovb/view?usp=sharing"]
+},
+{
+"Codigo": 2172,
+  "Vendedor": "Manny",
+  "Descripcion": "Pulsera",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1QeeqesPgIC7tFZZZUhFu8-S7Mvk5OShu/view?usp=sharing"]
+},
+{
+"Codigo": 2173,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 25,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1EqhI2Og5exFL1AXe8mvwoN1O_CNCR_UU/view?usp=sharing"]
+},
+{
+"Codigo": 2174,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZGnj3dEFZ7m4o1v5NslBceMKDyR0acce/view?usp=sharing"]
+},
+{
+"Codigo": 2175,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 5,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1jHofbBZifGOrEaMx2yrJrATWF_5_ISCt/view?usp=sharing"]
+},
+{
+"Codigo": 2176,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1shsW1qcP88JgYsl3H_pcUCE-iEvkpdvX/view?usp=sharing"]
+},
+{
+"Codigo": 2177,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1poS_8B2cssyJMGi3dYXYZI6nZv_4KT7V/view?usp=sharing"]
+},
+{
+"Codigo": 2178,
+  "Vendedor": "Manny",
+  "Descripcion": "Bolsa ",
+  "Precio": 45,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/16QjqXiBYZvdssQ553m-QWs_6mjGNV9s3/view?usp=sharing"]
+},
+{
+"Codigo": 2179,
+  "Vendedor": "Manny",
+  "Descripcion": "Bolsa ",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1t1vEdHZJVOqzozUUB5dSrpBSG3UF1Wcp/view?usp=sharing"]
+},
+{
+"Codigo": 2180,
+  "Vendedor": "Manny",
+  "Descripcion": "Cartera ",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1y1Jt1TYMXpmJPk6OwcLGL8VNoH3nWEFH/view?usp=sharing"]
+},
+{
+"Codigo": 2181,
+  "Vendedor": "Manny",
+  "Descripcion": "Pulsera",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1XGZ5_8j7KaSZ2PjVYRTLxMDZksHdBqqp/view?usp=sharing"]
+},
+{
+"Codigo": 2182,
+  "Vendedor": "Manny",
+  "Descripcion": "Funda cel",
+  "Precio": 25,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1muLo6oinwjlI7PwLY6ImtBMu6z-HHtU2/view?usp=sharing"]
+},
+{
+"Codigo": 2183,
+  "Vendedor": "Manny",
+  "Descripcion": "Letrero",
+  "Precio": 100,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1-5OEq-fK2qjBDScGgGti7DL_AkQpkPdS/view?usp=sharing"]
+},
+{
+"Codigo": 2184,
+  "Vendedor": "Manny",
+  "Descripcion": "Luz",
+  "Precio": 40,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ze8ummygr3DI6RDQU03ajLQ2jmmYPYtY/view?usp=sharing"]
+},
+{
+"Codigo": 2185,
+  "Vendedor": "Manny",
+  "Descripcion": "Luz",
+  "Precio": 40,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1KeWD0DdBRgXk-N6c4VmXQoDKZXo8MH67/view?usp=sharing"]
+},
+{
+"Codigo": 2186,
+  "Vendedor": "Manny",
+  "Descripcion": "Cepillo ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1dvyw-DVma6J6e8ef7Ftas2kuG_3Gmr0m/view?usp=sharing"]
+},
+{
+"Codigo": 2187,
+  "Vendedor": "Manny",
+  "Descripcion": "Ganchos",
+  "Precio": 90,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1n-oepd5pMM8h51G6uL26fZ_TyHPSkK05/view?usp=sharing"]
+},
+{
+"Codigo": 2188,
+  "Vendedor": "Manny",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1kdlLM2-lhcyEnrG6JeBHj4yOyYfrQPz5/view?usp=sharing"]
+},
+{
+"Codigo": 2189,
+  "Vendedor": "Manny",
+  "Descripcion": "Decoración ",
+  "Precio": 45,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1xhqKUeOoGdEUaDaf6gtMEJo23JX5En1c/view?usp=sharing"]
+},
+{
+"Codigo": 2190,
+  "Vendedor": "Manny",
+  "Descripcion": "Lámpara ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1CPy9dMeNfmkKiCIuIjJyB_-xhN2s1RaN/view?usp=sharing"]
+},
+{
+"Codigo": 2191,
+  "Vendedor": "Manny",
+  "Descripcion": "Selfie",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1mQ3suzs-oupC49ychW441Id6ccoBdSx9/view?usp=sharing"]
+},
+{
+"Codigo": 2192,
+  "Vendedor": "Manny",
+  "Descripcion": "Decoración ",
+  "Precio": 20,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1F_GlRp6rojliqxPlZGBadHy3iP_onyHS/view?usp=sharing"]
+},
+{
+"Codigo": 2193,
+  "Vendedor": "Manny",
+  "Descripcion": "Mesa ",
+  "Precio": 2000,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1IVIAv48umtbaBP-i_RrDHmM4upT9uRJe/view?usp=sharing"]
+},
+{
+"Codigo": 2194,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1uZBIkcDUoVxjChYiyYBoBBrIsmL7tvcA/view?usp=sharing"]
+},
+{
+"Codigo": 2195,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 35,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1cZ8LQfPa1U2Y9ilwQ7vq5uI0wPpt6PQF/view?usp=sharing"]
+},
+{
+"Codigo": 2196,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 35,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1GFvmTPTUuXOBsIW60CYohqDmv7IvbBUu/view?usp=sharing"]
+},
+{
+"Codigo": 2197,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1p6bCTO-EYJkU89Ff-PD1kzsZiMojbule/view?usp=sharing"]
+},
+{
+"Codigo": 2198,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1LOt0G-MTSmC_Q8RDCi51OqnoQJuVdjUY/view?usp=sharing"]
+},
+{
+"Codigo": 2199,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1HrmkXRVuSZvOF3GcasGIKtL1pcae7U1a/view?usp=sharing"]
+},
+{
+"Codigo": 2200,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/124hCSaH3KdRacd0SzMJzhLOg9gVX-FCD/view?usp=sharing"]
+},
+{
+"Codigo": 2201,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1QqzzEfx4kYTuk17HZ9FoSmqK217xAoQC/view?usp=sharing"]
+},
+{
+"Codigo": 2202,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1bbr7QQnqzQOr3tHIBtBWqyejBPFB_bRg/view?usp=sharing"]
+},
+{
+"Codigo": 2203,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1aOSJSrEoN7dK1IuiGmKxGAKayNzM2g3h/view?usp=sharing"]
+},
+{
+"Codigo": 2204,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1YXAcQlqVdSZ1MmDyJx-qEXX_h7yZtgkY/view?usp=sharing"]
+},
+{
+"Codigo": 2205,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1as2kQeNYEilxE9MVGdtgk4yydZhh_tVN/view?usp=sharing"]
+},
+{
+"Codigo": 2206,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1XYignW-xZ3xAwcj6KVfNGw-9dyFpzijp/view?usp=sharing"]
+},
+{
+"Codigo": 2207,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1nVHQZ_S2yblJHWhf8Mzra8uxRQpWZ5nr/view?usp=sharing"]
+},
+{
+"Codigo": 2208,
+  "Vendedor": "MCV",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/194GRpNq05cM8SR3sMDn12_QKVtVN6KOO/view?usp=sharing"]
+},
+{
+"Codigo": 2209,
+  "Vendedor": "MCV",
+  "Descripcion": "Cojín ",
+  "Precio": 60,
+  "Categoria": "Hogar",
+  "Imagenes": ["https://drive.google.com/file/d/1ws8bda8UBQKCtvqH7IlbI74v_swOhwmC/view?usp=sharing"]
+},
+{
+"Codigo": 2210,
+  "Vendedor": "MCV",
+  "Descripcion": "Saco ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cU1zfNXofM5L5J8QFJ25vDak50uJWiPQ/view?usp=sharing"]
+},
+{
+"Codigo": 2211,
+  "Vendedor": "MCV",
+  "Descripcion": "Suéter ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1miGrLYXlCYnBWox5g85vccd91tAMOGag/view?usp=sharing"]
+},
+{
+"Codigo": 2212,
+  "Vendedor": "MCV",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1bMoz3LYrF4G3pxO1wcFTOyTmNtACwGqd/view?usp=sharing"]
+},
+{
+"Codigo": 2213,
+  "Vendedor": "MCV",
+  "Descripcion": "Velas",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1e1zn6g-C23952RxYDnd0WJhgxWAZCTWR/view?usp=sharing"]
+},
+{
+"Codigo": 2214,
+  "Vendedor": "MCV",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1hrqG6WIW5dLZ35Tu1MGL2WZ2BTToEXKQ/view?usp=sharing"]
+},
+{
+"Codigo": 2215,
+  "Vendedor": "MCV",
+  "Descripcion": "Pantalón ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/16B4qLAnwP2PtFCwiT8hFA52LFMDjbIqG/view?usp=sharing"]
+},
+{
+"Codigo": 2216,
+  "Vendedor": "MCV",
+  "Descripcion": "Playera ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1G9Oyy65nPBAEVknbAXCfmxRm5CcmygWO/view?usp=sharing"]
+},
+{
+"Codigo": 2217,
+  "Vendedor": "MCV",
+  "Descripcion": "Saco ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1ubp021AaKJc03o1c3xFdaMYXPSdLE-Ry/view?usp=sharing"]
+},
+{
+"Codigo": 2218,
+  "Vendedor": "MCV",
+  "Descripcion": "Camisa ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1KhbyPMoSTmcmEkR64awQ1XLBBs9W7iW8/view?usp=sharing"]
+},
+{
+"Codigo": 2219,
+  "Vendedor": "MCV",
+  "Descripcion": "Camisa ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1ucx9nUDU2prd26p4bQ6N0F6DeZubV1HD/view?usp=sharing"]
+},
+{
+"Codigo": 2220,
+  "Vendedor": "MCV",
+  "Descripcion": "Camisa ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1_FQW_4wUlPyQT7rQYsL-oe2Rflheaewc/view?usp=sharing"]
+},
+{
+"Codigo": 2221,
+  "Vendedor": "MCV",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QrHvotWjE0xFAx6tDTuWwFZqXrcxx1zJ/view?usp=sharing"]
+},
+{
+"Codigo": 2222,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Collar",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1s3gkIQmWGNZs-yAmbPPkne78F_n9onJ4/view?usp=sharing"]
+},
+{
+"Codigo": 2223,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ImJlxsd1iuITuEGx5Vh-BJpOwiFiDyR-/view?usp=sharing"]
+},
+{
+"Codigo": 2224,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1SC2RqzbjJOX1ZyxP-_xNsSjzud5zPa-W/view?usp=sharing"]
+},
+{
+"Codigo": 2225,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1jjFCM7gshngs5IeG7ORjZgcEnRdDYqxj/view?usp=sharing"]
+},
+{
+"Codigo": 2226,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ommg6GQurOW9wteHfq_fO-vvu5BEAZJ-/view?usp=sharing"]
+},
+{
+"Codigo": 2227,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1rs_GaIml7eBPvsANH2fMHlOD-wTyL-co/view?usp=sharing"]
+},
+{
+"Codigo": 2228,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Falda ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1HnGwW3gFd0AqbZ5bZXzEQNRKdWMCvLM5/view?usp=sharing"]
+},
+{
+"Codigo": 2229,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1geozzA8Qu2rOG0N7vz1GwVDUovbzNmpR/view?usp=sharing"]
+},
+{
+"Codigo": 2230,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Pantalón ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1sqjh7WvJEZfu8VbXaMm6ZjDpGEBY0osa/view?usp=sharing"]
+},
+{
+"Codigo": 2231,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1KiC9GHseKz7cS_6cu-vMJhDXNfkD78lB/view?usp=sharing"]
+},
+{
+"Codigo": 2232,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 300,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1r2wSo_LkBcOMLZJXxkbI_31f-O5Ol0wq/view?usp=sharing"]
+},
+{
+"Codigo": 2233,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vryVZ9EbCvGArJQ8_1B37SHMM6IgyE7G/view?usp=sharing"]
+},
+{
+"Codigo": 2234,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/142sRsQ5eukwYJDKHiG-bUnnX8vh1s91U/view?usp=sharing"]
+},
+{
+"Codigo": 2235,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1o4BObGDnGb2tT_nNahhO0UEIomv8JJ0o/view?usp=sharing"]
+},
+{
+"Codigo": 2236,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Falda ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1J4mvUDxwdpToS2N9Qg9qnxikSmYJ2Tab/view?usp=sharing"]
+},
+{
+"Codigo": 2237,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17APgNz4bBFkYR0rGSmALy8ceG2XM1r3I/view?usp=sharing"]
+},
+{
+"Codigo": 2238,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tWDCWsb7tYGB2iGU9KyosPpwHrnTedOo/view?usp=sharing"]
+},
+{
+"Codigo": 2239,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1V3M4tz2XbLHBLSVV7v-VEeemAObr0ihB/view?usp=sharing"]
+},
+{
+"Codigo": 2240,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Chamarra ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1VzFBgpTaBhloWopk_YarDMu5Fn4KVYzC/view?usp=sharing"]
+},
+{
+"Codigo": 2241,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Paraguas ",
+  "Precio": 80,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/18KBXRCEWXjgXkdZLJ0lbbHCYiFFt6eKP/view?usp=sharing"]
+},
+{
+"Codigo": 2242,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1P34UtitHU7uyvJT0pfHZRsrNt09yM7Ds/view?usp=sharing"]
+},
+{
+"Codigo": 2243,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Falda ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1dpxMJtMbnt2tjZIiX-03TGh3BnTUlLLN/view?usp=sharing"]
+},
+{
+"Codigo": 2244,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Tubos",
+  "Precio": 60,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1VtIGcmQwcEKP4NIu0UHNfSQXoGBEMYQQ/view?usp=sharing"]
+},
+{
+"Codigo": 2245,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1MvZNgMJWdDUshwgi8hkVKxieHzuwSiJI/view?usp=sharing"]
+},
+{
+"Codigo": 2246,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zSq6OM_fckA-EJUBwNa2YOxeBeDLl-q0/view?usp=sharing"]
+},
+{
+"Codigo": 2247,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Vestido ",
+  "Precio": 250,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1iDA7OGH4T-bXcdNQGAWGTcQVhN5LbSZM/view?usp=sharing"]
+},
+{
+"Codigo": 2248,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Suéter ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1nqx9A-RSDUfxBMFQ-Lm-9Fk84n-lmJDl/view?usp=sharing"]
+},
+{
+"Codigo": 2249,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1h6UtjX6dfXTpXFld3oDhIKjpok3LXanq/view?usp=sharing"]
+},
+{
+"Codigo": 2250,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Falda ",
+  "Precio": 45,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YerkSwAfRyuUaIpUIPXlgFSahTo-nqzP/view?usp=sharing"]
+},
+{
+"Codigo": 2251,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Pants ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Uc5yKT0WHe_THffxgPrQs0e2RELjU__W/view?usp=sharing"]
+},
+{
+"Codigo": 2252,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Tela",
+  "Precio": 80,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1Dx5FxsRBp9Mv8NToEstC-yVgbcn0zp5T/view?usp=sharing"]
+},
+{
+"Codigo": 2253,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Conjunto",
+  "Precio": 400,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10KlMl2J8P72D6JOrDbhZFg7Y4FWK-HNt/view?usp=sharing"]
+},
+{
+"Codigo": 2254,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1rz2lA7-s_i1wd7NN8Za13N3WU3VIvbrE/view?usp=sharing"]
+},
+{
+"Codigo": 2255,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 80,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1cSpRHiV6NgKpVdYmlAkJ0EHp1O7gnzoj/view?usp=sharing"]
+},
+{
+"Codigo": 2256,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 70,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/19ty6eDktz7lyy4QAGPhOT8pRni3C-dx6/view?usp=sharing"]
+},
+{
+"Codigo": 2257,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 70,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1iu_nBfWkUA2szdXHCjVyhf-OMmds4fNI/view?usp=sharing"]
+},
+{
+"Codigo": 2258,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1UCxGMKajitRjvMkzSlkj71jSmAIRdiRT/view?usp=sharing"]
+},
+{
+"Codigo": 2259,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1pxiHmTUCSRdcLboCzJs37Ri9I6A2ll7f/view?usp=sharing"]
+},
+{
+"Codigo": 2260,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 60,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1bi4k3h5BtW0xnPNUQ0QPDTJVEA_lqGIP/view?usp=sharing"]
+},
+{
+"Codigo": 2261,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Corbata ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1YkYD8oZm4Vc4LCxaTWKhBCq9CLegjEJf/view?usp=sharing"]
+},
+{
+"Codigo": 2262,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1Icw6RIUIYeuvTueucLk_btjTWsrLkvLU/view?usp=sharing"]
+},
+{
+"Codigo": 2263,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 80,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1vZ5h8SJu-3FeucvzJZuuSK3hjzQeJJVE/view?usp=sharing"]
+},
+{
+"Codigo": 2264,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 80,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1taWJnIJjJunsHp6InLIwQgDmdi2CFTPR/view?usp=sharing"]
+},
+{
+"Codigo": 2265,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1rubiZLYHWBUshKOJrHmSaRX0owI1XzE4/view?usp=sharing"]
+},
+{
+"Codigo": 2266,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1hJT8y1OHPGoWqwTJ0ez_RrbY-u5AXJ4g/view?usp=sharing"]
+},
+{
+"Codigo": 2267,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Camisa ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1qPGc3dYIQIrYUghCwLDVL8sFAqDp62zM/view?usp=sharing"]
+},
+{
+"Codigo": 2268,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Shampoo ",
+  "Precio": 100,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1ju7z8cGBHUBBOYWFjm54VwbGW3Ru3Ik1/view?usp=sharing"]
+},
+{
+"Codigo": 2269,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Omnilife ",
+  "Precio": 300,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1E_pI5ygyalIiU5uXmMoRWNENjtKbBWZJ/view?usp=sharing"]
+},
+{
+"Codigo": 2270,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Tenis ",
+  "Precio": 900,
+  "Categoria": "Zapato Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1GIam3j8Q2acB3MH4oakk4ENnAic6HV85/view?usp=sharing"]
+},
+{
+"Codigo": 2271,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Tenis ",
+  "Precio": 400,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1glpfsq2LiLds0hwSnZi4pvwJ5BFzWhV6/view?usp=sharing"]
+},
+{
+"Codigo": 2272,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Cortinas",
+  "Precio": 120,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kPIrfr4rekFkws1mYxOFRDLbW7w7B5Ct/view?usp=sharing"]
+},
+{
+"Codigo": 2273,
+  "Vendedor": "Nancy Batres ",
+  "Descripcion": "Raqueta",
+  "Precio": 300,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1VjVX-zgXihiTrj-jZ4iwwJXqPUzlVCwh/view?usp=sharing"]
+},
+{
+"Codigo": 2274,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BLnbXFbZL-MQGy3rMGgQ6NFIUryfiN89/view?usp=sharing"]
+},
+{
+"Codigo": 2275,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1PL4emxUXAuRNDBmxlVRYMwYkAw30v6MZ/view?usp=sharing"]
+},
+{
+"Codigo": 2276,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Saco",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1kM3NajKI9OJ8N5OKR1OTRYuWtOkE8QOf/view?usp=sharing"]
+},
+{
+"Codigo": 2277,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Camara",
+  "Precio": 1700,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1jRTGVRa9NeIjqmRTlN37p5vh3n_Tt8iN/view?usp=sharing"]
+},
+{
+"Codigo": 2278,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Bolsa ",
+  "Precio": 380,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1CQtEIVbbAfWoTtJTHN1fhMwDKfsSNio8/view?usp=sharing"]
+},
+{
+"Codigo": 2279,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Plancha ",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1c2ru3SWnS_Tj4SZuMcjXBoaX7mDXrLJp/view?usp=sharing"]
+},
+{
+"Codigo": 2280,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Tableta ",
+  "Precio": 200,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1b5AUW-8f-87MM5AVYC00aG8b-lJ_JsAD/view?usp=sharing"]
+},
+{
+"Codigo": 2281,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/11DvORrP3nRvD-agtPYRwVWmf6cM2q9a1/view?usp=sharing"]
+},
+{
+"Codigo": 2282,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pZvAEg3PzO_6XbgPmOvk8nvAFw0OFqhe/view?usp=sharing"]
+},
+{
+"Codigo": 2283,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Planta ",
+  "Precio": 20,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1DCCp2Ij6eRsnKRWBr-zEAmGCD50qE66G/view?usp=sharing"]
+},
+{
+"Codigo": 2284,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Velas",
+  "Precio": 60,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1EXMFm4yO0Z6nQ1r4uJPnPX_P37NC5kTZ/view?usp=sharing"]
+},
+{
+"Codigo": 2285,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pH0_x4ZMh58dCFOZAtic8Envt_VpnYoe/view?usp=sharing"]
+},
+{
+"Codigo": 2286,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1i7Qtn7JQshRz6IkhXuxRotvqz6pr6ytR/view?usp=sharing"]
+},
+{
+"Codigo": 2287,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Dn_9yoh_abtD6cApfzbvfVDnFwU9AhyR/view?usp=sharing"]
+},
+{
+"Codigo": 2288,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1G3kQiKHqBZYrDEQU4eiSm9ihBCaUALna/view?usp=sharing"]
+},
+{
+"Codigo": 2289,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Botas",
+  "Precio": 300,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1jV5QzKwSX4aeRi9aLFbhO_JOQEjFqtiw/view?usp=sharing"]
+},
+{
+"Codigo": 2290,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Pantalón ",
+  "Precio": 150,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1RmGbSISIJe9ZUPBFKWWOBbzBwghM0gJq/view?usp=sharing"]
+},
+{
+"Codigo": 2291,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1j6bMuJlPOGcSuzhfVW-WqhAYzqptNn7E/view?usp=sharing"]
+},
+{
+"Codigo": 2292,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1k_AZzHoA1Km6K2MC_-nIVl_KYLVLhS5D/view?usp=sharing"]
+},
+{
+"Codigo": 2293,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Chamarra ",
+  "Precio": 80,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1aCpkRhG6pmVElV3pZbUf-9XcNHM-sbVP/view?usp=sharing"]
+},
+{
+"Codigo": 2294,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 140,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZdMpLFUU8rj7_bw3Y1r-1LzkGF34EWtR/view?usp=sharing"]
+},
+{
+"Codigo": 2295,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Chaqueta ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1RVgzb4x7esmOx_suUdcQmLPnilODZHRO/view?usp=sharing"]
+},
+{
+"Codigo": 2296,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Maletín ",
+  "Precio": 190,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1-3R2Uv9DQVuHkqgiszh64tuz5PqIf2jP/view?usp=sharing"]
+},
+{
+"Codigo": 2297,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Tenis ",
+  "Precio": 850,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1_XPW_4fEXwcUv2OWAHJ1Z_gMO-reifk7/view?usp=sharing"]
+},
+{
+"Codigo": 2298,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Cosmetiquera ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1APYxfPIy216J1EyGXyGOS8aKNNIUqx6h/view?usp=sharing"]
+},
+{
+"Codigo": 2299,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Mariconera",
+  "Precio": 140,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1d1Gwe21EKM1Hn0eUZXTgtXtb2vdpYHf8/view?usp=sharing"]
+},
+{
+"Codigo": 2300,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Estufa",
+  "Precio": 800,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1aCs2baSGNDtVWX080pmG57Gw-LxqTsLz/view?usp=sharing"]
+},
+{
+"Codigo": 2301,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Bolsa",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1roVTiOKYNR4IglBpFYdtWa8R5-fLttPJ/view?usp=sharing"]
+},
+{
+"Codigo": 2302,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1g5iE26ivHF8s9PvFceK4ULZPHv_FovU8/view?usp=sharing"]
+},
+{
+"Codigo": 2303,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1sPgITh5FFYFlBrxri3lcr44phajEAR75/view?usp=sharing"]
+},
+{
+"Codigo": 2304,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vehvPnaIkKwj4x2NlQtAAnY-W12qU6fq/view?usp=sharing"]
+},
+{
+"Codigo": 2305,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1izz5u5CQFOYE4LeQZ4TuMpnyD47k37QS/view?usp=sharing"]
+},
+{
+"Codigo": 2306,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Cárdigan ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/186Ku51ThQVDELpYXQo7b0d0RFNxwbXFV/view?usp=sharing"]
+},
+{
+"Codigo": 2307,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1SCHD_UiJRk2a3PkHgnyxcjQ7Px4-YFcg/view?usp=sharing"]
+},
+{
+"Codigo": 2308,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Reloj ",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1XGGo_vg7eMCVrR9LHiPnQMwHcBHAM9Xx/view?usp=sharing"]
+},
+{
+"Codigo": 2309,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1utmrhSzNQYig2WtROz8tGNutqes8sqXF/view?usp=sharing"]
+},
+{
+"Codigo": 2310,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/16O7ua94KrdpkTYm5e53sMjmtCox7AQrW/view?usp=sharing"]
+},
+{
+"Codigo": 2311,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/15jJjGklQhiy6LUupMDij_bGJmlykoicR/view?usp=sharing"]
+},
+{
+"Codigo": 2312,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZCOhFRB2BIE_3I5zBr3OfIGpaWMXmnjN/view?usp=sharing"]
+},
+{
+"Codigo": 2313,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Bolsa ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1s8b_60bkb2G_gjdv52__fa--3b7OxgLj/view?usp=sharing"]
+},
+{
+"Codigo": 2314,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Cadenita",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1slHRcIN9T_bzPA12H7I9wrnsne79EPV7/view?usp=sharing"]
+},
+{
+"Codigo": 2315,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1a4lsvGrL8Mc9JzlWriHZJHchrmgCit8b/view?usp=sharing"]
+},
+{
+"Codigo": 2316,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Abrigo ",
+  "Precio": 250,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1yqFO0GwB-uwdrUjR8mS-eyIvv4LGAI-8/view?usp=sharing"]
+},
+{
+"Codigo": 2317,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/154NGeZFN4q-5xxO76dIKU8PGrp1UVgo0/view?usp=sharing"]
+},
+{
+"Codigo": 2318,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Aretes ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1VfVHh0YsEGK-P8ZhzZ2G2BeU5Gc6YdxZ/view?usp=sharing"]
+},
+{
+"Codigo": 2319,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Celular ",
+  "Precio": 300,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1QqXatCJrXxOQJL60KZPwWoEFQ14NqPm_/view?usp=sharing"]
+},
+{
+"Codigo": 2320,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Salsera ",
+  "Precio": 60,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/10e1bGfFEwx3TdW3fvzoN5eDxAo07bE7A/view?usp=sharing"]
+},
+{
+"Codigo": 2321,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Pants ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1y3HuAJ5uRTNhb5sxoEBXWFDAvyPnMoWy/view?usp=sharing"]
+},
+{
+"Codigo": 2322,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Rimel",
+  "Precio": 80,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1gdAk9_VddAIUkHsKeOcAaEpHoPqVP_u8/view?usp=sharing"]
+},
+{
+"Codigo": 2323,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Jabón ",
+  "Precio": 70,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1TeBd9zPWKQvdw-IuOzTR1LXI9vlfseka/view?usp=sharing"]
+},
+{
+"Codigo": 2324,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Collar ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1kYmlUwCMx05B3U9tmRmFlWqQV3-7OjwB/view?usp=sharing"]
+},
+{
+"Codigo": 2325,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ygaYrCjDee4SiTrMpm2qvf5EFx0QCDRI/view?usp=sharing"]
+},
+{
+"Codigo": 2326,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Duvet",
+  "Precio": 250,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1z65kVCeEcK0vLpr3HiuVHO1cuc9LR84Z/view?usp=sharing"]
+},
+{
+"Codigo": 2327,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Vestido ",
+  "Precio": 380,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1snlWHidzFKf6ejR4hb2Rfa121e-xvfPc/view?usp=sharing"]
+},
+{
+"Codigo": 2328,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Botas ",
+  "Precio": 300,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1f7FIBXG7U8pzZ6hzazRcVbaTwn4iDxH5/view?usp=sharing"]
+},
+{
+"Codigo": 2329,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Bolsa ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1yFozTmAIrEPdpMtQhvIMveEzN8aAMALv/view?usp=sharing"]
+},
+{
+"Codigo": 2330,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Bolsa ",
+  "Precio": 80,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1wH-R_XcSOAwFuUnYArH1tuvxHulI5ch2/view?usp=sharing"]
+},
+{
+"Codigo": 2331,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Truzas ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1-0I7Iz6HRN6Vhij5A-nFeOM7tbEM0fWh/view?usp=sharing"]
+},
+{
+"Codigo": 2332,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Fundas",
+  "Precio": 60,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1ESDB9J_FMa0Vr0xqGJWjjJw7iVAoczif/view?usp=sharing"]
+},
+{
+"Codigo": 2333,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1maIleEUTvniBDNN0zE_0S_gDqd2al4w3/view?usp=sharing"]
+},
+{
+"Codigo": 2334,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Cárdigan ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17_330riz2_ddSmJzhbx9PR3OT77769e1/view?usp=sharing"]
+},
+{
+"Codigo": 2335,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fMQwEL9oclxXc9uki6l8DcbSGdG2RIXS/view?usp=sharing"]
+},
+{
+"Codigo": 2336,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Quesera ",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1GbubUOlolJNxPKx_hni11h2eO7rk3-0Y/view?usp=sharing"]
+},
+{
+"Codigo": 2337,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Pelota",
+  "Precio": 150,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1NBTTbe1xSouXc4f1GVCKnEniWPSa-xEI/view?usp=sharing"]
+},
+{
+"Codigo": 2338,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 280,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BvJVooSRUKbx0ykZgVY5sXBQ_zuMQ7oW/view?usp=sharing"]
+},
+{
+"Codigo": 2339,
+  "Vendedor": "Nelly Perez",
+  "Descripcion": "Falda ",
+  "Precio": 230,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/14vfH1fwcJ3QAS3rgWhn47pEBDlfb2S10/view?usp=sharing"]
+},
+{
+"Codigo": 2340,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1--t2qYY9oeveFNTeErBxSoIu3CLTMapP/view?usp=sharing"]
+},
+{
+"Codigo": 2341,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Vestido ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1qR-Vgb-wpPRvkPOk3yVmjDDeJkPASb73/view?usp=sharing"]
+},
+{
+"Codigo": 2342,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Chaleco ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xRe_dlxrXAxyAnduVo0ohU5SJuXRNmXz/view?usp=sharing"]
+},
+{
+"Codigo": 2343,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1A90dfuP0hfjlaRozdqYx9zyr-Vc_SwSw/view?usp=sharing"]
+},
+{
+"Codigo": 2344,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1eR3YruGKy2BrV6QaYx868ZrejJNv9lx1/view?usp=sharing"]
+},
+{
+"Codigo": 2345,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Camisa ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1XrwMD52UT7m2CoB_0VtsgHEF8JYETWs0/view?usp=sharing"]
+},
+{
+"Codigo": 2346,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/159W-LaS7AWCk-nY2UyAUF-l4v-j8GlcQ/view?usp=sharing"]
+},
+{
+"Codigo": 2347,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Y0F_iDVQ1jNfOB8fWzVrCVFTjwmueO2a/view?usp=sharing"]
+},
+{
+"Codigo": 2348,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12vRo9LQOUGqIM9-zkvDos7HLfYGubfgC/view?usp=sharing"]
+},
+{
+"Codigo": 2349,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1e9OOPmEoAJVpv8ywSDdypVModp9UkpCQ/view?usp=sharing"]
+},
+{
+"Codigo": 2350,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Pants ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1k6pBlZ30fZFZVBfKjdZF1SGSK6mo1RUi/view?usp=sharing"]
+},
+{
+"Codigo": 2351,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10Xi5gG1S2Jfz_DfFBY3XRWOyo42SnwhD/view?usp=sharing"]
+},
+{
+"Codigo": 2352,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/13HxwWl1CPQ9eDJ5MsmK7bR2XZy8YyoLP/view?usp=sharing"]
+},
+{
+"Codigo": 2353,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Traje ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1aFwOC6YViifglbdFbreNb30m5z03FWxs/view?usp=sharing"]
+},
+{
+"Codigo": 2354,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Abrigo ",
+  "Precio": 400,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QzudN6yiZyAM_IZWBSZr1Ifvoyfl-IMS/view?usp=sharing"]
+},
+{
+"Codigo": 2355,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1bDxBygYPNwtD1oxbSIdLic0Yg3zbJKZN/view?usp=sharing"]
+},
+{
+"Codigo": 2356,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Chamarra ",
+  "Precio": 300,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AeaGWw45BaEJi4nq2dRv-DUCoFTVKiOw/view?usp=sharing"]
+},
+{
+"Codigo": 2357,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Camisa ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1zsb5VP0TlU9enxbC90oCyDABMoXIm601/view?usp=sharing"]
+},
+{
+"Codigo": 2358,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Abrigo ",
+  "Precio": 1000,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1pzCaivAliUwJgGUsiQ_RW_7SiciZWgch/view?usp=sharing"]
+},
+{
+"Codigo": 2359,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1WUXtEcAD3GUmKGVJrGbBH5PCRbrWr8GP/view?usp=sharing"]
+},
+{
+"Codigo": 2360,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Saco ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1E4ZProCLbeqE9SoyxfDezfGVQ8Cxmu7e/view?usp=sharing"]
+},
+{
+"Codigo": 2361,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Pants ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Xeo_ESzX8NQYkjzQqDpfX3volY1sA22e/view?usp=sharing"]
+},
+{
+"Codigo": 2362,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YKFcvUgFOhSpshSFtv-6TB0lhDCELO-S/view?usp=sharing"]
+},
+{
+"Codigo": 2363,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Abrigo ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10iz8lYu0Ncv7xSydcREskVHPnPTVr1wL/view?usp=sharing"]
+},
+{
+"Codigo": 2364,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1MvInS4S0DqIQbaLqMRIy2E8_2hlMCIkc/view?usp=sharing"]
+},
+{
+"Codigo": 2365,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Plancha",
+  "Precio": 400,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/10Bty3uWmUywmq4qL4mFCmPo9Ct-9ZvDc/view?usp=sharing"]
+},
+{
+"Codigo": 2366,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10Zkybv1K0Rrz91w5Otqwrw3JAmAkqWjj/view?usp=sharing"]
+},
+{
+"Codigo": 2367,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1m86BU4rshF0tG7xgs0E4wBBq2Z6V7ddm/view?usp=sharing"]
+},
+{
+"Codigo": 2368,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ak889coNQyZjoQ2H27uUyGOE3W6Rq5zC/view?usp=sharing"]
+},
+{
+"Codigo": 2369,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tLmxmxK4qDixK25FodRH1dZEi__o8CDa/view?usp=sharing"]
+},
+{
+"Codigo": 2370,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QsGqB3OFSDFF4thSivju-fGK2ZKIdclj/view?usp=sharing"]
+},
+{
+"Codigo": 2371,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1abSDC2Zqp4uqIzWqdo42116LPe7RCVJy/view?usp=sharing"]
+},
+{
+"Codigo": 2372,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Cepillo",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1QOnsirWMxdsGqLVqCTsoP6BQ1qVKmQuQ/view?usp=sharing"]
+},
+{
+"Codigo": 2373,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Sombrero ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1N1cOIvinFnCFNSLgRCLUC5hIn4py_90p/view?usp=sharing"]
+},
+{
+"Codigo": 2374,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tlb9trIxfZ_CZEuBzqUHFN5JsOMtNNlr/view?usp=sharing"]
+},
+{
+"Codigo": 2375,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1-aP9xfQcOimISJCPZ9nKWDdPnJG-yMGZ/view?usp=sharing"]
+},
+{
+"Codigo": 2376,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1TjOFWQeT8ULCkD8xAiUbqqm_7ivQ9W5f/view?usp=sharing"]
+},
+{
+"Codigo": 2377,
+  "Vendedor": "Pcervant ",
+  "Descripcion": "Suéter ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1MvXkvE6l8sG69tfiBjV4XFrpoRU5Vhhy/view?usp=sharing"]
+},
+{
+"Codigo": 2378,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1mlDNJLZyi0C1SZ1M0Tdt-ee0cIixJdW2/view?usp=sharing"]
+},
+{
+"Codigo": 2379,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/18gCn4lwmyFm3kUBciE4nZGCe6EhsK0Vu/view?usp=sharing"]
+},
+{
+"Codigo": 2380,
+  "Vendedor": "Reso",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1diC5hNz8MGQClWemVyG5aQi7OF5pJbmS/view?usp=sharing"]
+},
+{
+"Codigo": 2381,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1PTdvbX34gbNSCps_uV9JcNxR6JLF4Wmq/view?usp=sharing"]
+},
+{
+"Codigo": 2382,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1udWAVgTTpmm04Zc4zQMl-5ZsYuQ9p6ps/view?usp=sharing"]
+},
+{
+"Codigo": 2383,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12mHh5r4CBqDHanGheXfL1ILfmLNCFXBS/view?usp=sharing"]
+},
+{
+"Codigo": 2384,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/14btonrAkw0Xhay2PMN4r1YiJOplrYXFH/view?usp=sharing"]
+},
+{
+"Codigo": 2385,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ynDYTVouwSKDNylDa_QfU0VByPjd8MQY/view?usp=sharing"]
+},
+{
+"Codigo": 2386,
+  "Vendedor": "Reso",
+  "Descripcion": "Camiseta",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tNb0_yrfdot7em8ZFJQppB_ZOyoTBI8C/view?usp=sharing"]
+},
+{
+"Codigo": 2387,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cOX4msAPR2zph4xxTkay818bLCE6156Y/view?usp=sharing"]
+},
+{
+"Codigo": 2388,
+  "Vendedor": "Reso",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1LVpSSp1uVsZmq1NyXiQR2dJHbhu-kbtJ/view?usp=sharing"]
+},
+{
+"Codigo": 2389,
+  "Vendedor": "Reso",
+  "Descripcion": "Licra ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1NRsucrSB70SCg9wMS6nYfRllEFXGfmQy/view?usp=sharing"]
+},
+{
+"Codigo": 2390,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1EJTDepMb_ZaRXNUZsCsM5JTjk8oZiCa3/view?usp=sharing"]
+},
+{
+"Codigo": 2391,
+  "Vendedor": "Reso",
+  "Descripcion": "Chaleco ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Z9GtirH6ZNKJeaxzP1neYDDLP7hzQBVF/view?usp=sharing"]
+},
+{
+"Codigo": 2392,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1m68GAZ-S8SxPlxMTMwM7sM0QJfkPvqEd/view?usp=sharing"]
+},
+{
+"Codigo": 2393,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 10,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1yck2ITM2JZSf-n_l_BefxsM0xiIi125U/view?usp=sharing"]
+},
+{
+"Codigo": 2394,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1v0nfvUnCFvq4vYrpDZS44dYe4cAlQLmY/view?usp=sharing"]
+},
+{
+"Codigo": 2395,
+  "Vendedor": "Reso",
+  "Descripcion": "Vestido ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1uGv5M_ADEhUhcHh-qgqa_kya6GBFuB3u/view?usp=sharing"]
+},
+{
+"Codigo": 2396,
+  "Vendedor": "Reso",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/19GBfBZ_VjovQ2iHMt18ttcaY4kfY8_Ow/view?usp=sharing"]
+},
+{
+"Codigo": 2397,
+  "Vendedor": "Reso",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ko31WBa_6_xxurFt8H2gkElYYB_PBMH_/view?usp=sharing"]
+},
+{
+"Codigo": 2398,
+  "Vendedor": "Reso",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1KXYs3aoXoqrmdlZsJCrN_dEhvGRAWkct/view?usp=sharing"]
+},
+{
+"Codigo": 2399,
+  "Vendedor": "Reso",
+  "Descripcion": "Licra ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1KX9SInJXGQPlPJST1Ei8p85DjDPrG87E/view?usp=sharing"]
+},
+{
+"Codigo": 2400,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1D-l-QVq7QUSQoZB2JlcztRdQU_EOGX0r/view?usp=sharing"]
+},
+{
+"Codigo": 2401,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fwkmc86KdTy6U4M5lknHlGjoPxfGe7Fo/view?usp=sharing"]
+},
+{
+"Codigo": 2402,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1h91DGNIiW805PhOVfCnrR5kQ75QGmza9/view?usp=sharing"]
+},
+{
+"Codigo": 2403,
+  "Vendedor": "Reso",
+  "Descripcion": "Chaleco",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1s23QFRD0L9wvZSHmyj9KFrHf40DX8RON/view?usp=sharing"]
+},
+{
+"Codigo": 2404,
+  "Vendedor": "Reso",
+  "Descripcion": "Cárdigan ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1501r8iXO629fCDvhA2qbRllOpiHXac-6/view?usp=sharing"]
+},
+{
+"Codigo": 2405,
+  "Vendedor": "Reso",
+  "Descripcion": "Suéter ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1I3jgLJPFp7ef9ZTdpsIDZ_qbbqvFdHo3/view?usp=sharing"]
+},
+{
+"Codigo": 2406,
+  "Vendedor": "Reso",
+  "Descripcion": "Pants ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YWmHGuiTIIzSnPVA7PymEy-Od6QsQefL/view?usp=sharing"]
+},
+{
+"Codigo": 2407,
+  "Vendedor": "Reso",
+  "Descripcion": "Pants ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1yb7BjRQdCrZyRwmaVdXql_KF9w3rujfL/view?usp=sharing"]
+},
+{
+"Codigo": 2408,
+  "Vendedor": "Reso",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1HbZjE3syMbdp_1y_AR56f2PHsx6EzA1m/view?usp=sharing"]
+},
+{
+"Codigo": 2409,
+  "Vendedor": "S.Roj",
+  "Descripcion": "Abrigo ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1jgxJ7UEpLDk9HN1thTo1ZyT5hPmI9Q3z/view?usp=sharing"]
+},
+{
+"Codigo": 2410,
+  "Vendedor": "S.Roj",
+  "Descripcion": "Abrigo ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1o0mCUyoVl93tyfTC9GHomMsCKpTUoCAO/view?usp=sharing"]
+},
+{
+"Codigo": 2411,
+  "Vendedor": "S.Roj",
+  "Descripcion": "Case",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1XCBtOoQHA5H20Az-X9Fc24FGLKOQrpcZ/view?usp=sharing"]
+},
+{
+"Codigo": 2412,
+  "Vendedor": "Pcervant",
+  "Descripcion": "Botas",
+  "Precio": 100,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/13Cf1jvSg-crqKKqq5Vt3gLi7YC2jim6G/view?usp=sharing"]
+},
+{
+"Codigo": 2413,
+  "Vendedor": "Pcervant",
+  "Descripcion": "Botas",
+  "Precio": 100,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17q0fiGXQBzYm-IAO16tdldZAGovmeCx_/view?usp=sharing"]
+},
+{
+"Codigo": 2414,
+  "Vendedor": "Pcervant",
+  "Descripcion": "Portafolio ",
+  "Precio": 250,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ORW80Bk25Onuvonxu0Ezaz9157ZkU1Bz/view?usp=sharing"]
+},
+{
+"Codigo": 2415,
+  "Vendedor": "AA",
+  "Descripcion": "Abrigo",
+  "Precio": 250,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1wvonXBnXrie-_jPxtw4KYFeQ4yMVYmdd/view?usp=sharing"]
+},
+{
+"Codigo": 2416,
+  "Vendedor": "AA",
+  "Descripcion": "Abrigo ",
+  "Precio": 250,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ad0RA7Qjl7bk2D_1gJlCo0FfqlKUl-CV/view?usp=sharing"]
+},
+{
+"Codigo": 2417,
+  "Vendedor": "AA",
+  "Descripcion": "Bolsa ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1Uc2Ea-UsqG-rA-BHNGtDj02gh_A2AvHm/view?usp=sharing"]
+},
+{
+"Codigo": 2418,
+  "Vendedor": "AA",
+  "Descripcion": "Bolsa ",
+  "Precio": 35,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1OmrOAaJKzSgCcpMWa-VrpyRIfj6wgVgD/view?usp=sharing"]
+},
+{
+"Codigo": 2419,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1A1BFLMNHK90pfcXDpZnU3VxoT7X4sWFV/view?usp=sharing"]
+},
+{
+"Codigo": 2420,
+  "Vendedor": "AA",
+  "Descripcion": "Abrigo ",
+  "Precio": 380,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zW53bGd9gkdy8yLYpABGmxr83E57WZRK/view?usp=sharing"]
+},
+{
+"Codigo": 2421,
+  "Vendedor": "AA",
+  "Descripcion": "Pashmina ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/16XXFqUkRDQ2VS2iQT5wtnXgng7MbDpI_/view?usp=sharing"]
+},
+{
+"Codigo": 2422,
+  "Vendedor": "AA",
+  "Descripcion": "Pashmina ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1pi0MSkOoGqTS97EmtGbS4ATryW4op4EX/view?usp=sharing"]
+},
+{
+"Codigo": 2423,
+  "Vendedor": "AA",
+  "Descripcion": "Vestido ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BTqVC7ERqe7YX5sxubHYgPnsqlRwmh_W/view?usp=sharing"]
+},
+{
+"Codigo": 2424,
+  "Vendedor": "AA",
+  "Descripcion": "Vestido ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1iWMZwgQVcyf1rNcsaItc3nQCPnvYnuLJ/view?usp=sharing"]
+},
+{
+"Codigo": 2425,
+  "Vendedor": "AA",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10NJcasjYuinaglnJoyx_LtuQsUgKKPx6/view?usp=sharing"]
+},
+{
+"Codigo": 2426,
+  "Vendedor": "AA",
+  "Descripcion": "Abrigo ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xCBVYM7Z5MKTWL2-PNCKi8POUMTq2qhP/view?usp=sharing"]
+},
+{
+"Codigo": 2427,
+  "Vendedor": "AA",
+  "Descripcion": "Zapato ",
+  "Precio": 280,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1e6iOqdJMMgc1y1OTXisDjFue2b6F_FHY/view?usp=sharing"]
+},
+{
+"Codigo": 2428,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1JSSrmfEcestynqBPjkIQR2Rw2OUXKaL9/view?usp=sharing"]
+},
+{
+"Codigo": 2429,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1PwowAAVjL9IjE8LJ7v4hJhFq83RZwycx/view?usp=sharing"]
+},
+{
+"Codigo": 2430,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1B90FiRBG4N4lCG6mHPqVLQvlJK5AimNS/view?usp=sharing"]
+},
+{
+"Codigo": 2431,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QxoxsDsxAgAN19DC3_cNG2aUta6XAzTm/view?usp=sharing"]
+},
+{
+"Codigo": 2432,
+  "Vendedor": "AA",
+  "Descripcion": "Pijama ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QtPN13RdavX60BR26tShuSwMhFRosLqI/view?usp=sharing"]
+},
+{
+"Codigo": 2433,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Nes-p_jIAJv9jwGZLgjw3iosHzND8XnR/view?usp=sharing"]
+},
+{
+"Codigo": 2434,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 90,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10dS8O9jSn6DfKKoucCntq0HoFSIuUL0U/view?usp=sharing"]
+},
+{
+"Codigo": 2435,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1r6irBRO59bRfPHObxQX2kzAT6TUPnN3k/view?usp=sharing"]
+},
+{
+"Codigo": 2436,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BaiOWMHxMTne3afi9XrWqUqXFmWY3GC_/view?usp=sharing"]
+},
+{
+"Codigo": 2437,
+  "Vendedor": "AA",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1gTbg2iNNtIDL3Cq-RLbvmlu_4Yi1Bh9F/view?usp=sharing"]
+},
+{
+"Codigo": 2438,
+  "Vendedor": "SMA",
+  "Descripcion": "Celular",
+  "Precio": 2300,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/19gQ-8Ea30C3v-70JE5Z1v9_V4XSNuwli/view?usp=sharing"]
+},
+{
+"Codigo": 2439,
+  "Vendedor": "AA",
+  "Descripcion": "Sofá cama",
+  "Precio": 3800,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1q1SnFAA9gb9MYd-ifgCZAfKBNMrrgptQ/view?usp=sharing"]
+},
+{
+"Codigo": 2440,
+  "Vendedor": "AA",
+  "Descripcion": "iPad ",
+  "Precio": 1500,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1l2Zrq1_YO9dS5HVZ36uZWb388KeiQo65/view?usp=sharing"]
+},
+{
+"Codigo": 2441,
+  "Vendedor": "BB",
+  "Descripcion": "Case",
+  "Precio": 160,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ip58tDI1b5RowP0eGOcn8p20_os-v9W8/view?usp=sharing"]
+},
+{
+"Codigo": 2442,
+  "Vendedor": "BB",
+  "Descripcion": "Micrófono ",
+  "Precio": 280,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1HBPzGEPKt-YWGXRJZjP_AMf5bLw59EPN/view?usp=sharing"]
+},
+{
+"Codigo": 2443,
+  "Vendedor": "BB",
+  "Descripcion": "iPhone ",
+  "Precio": 4800,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1q7KNiWhI39rybIsUe8gFEjjk-bd1zv49/view?usp=sharing"]
+},
+{
+"Codigo": 2444,
+  "Vendedor": "Lily L",
+  "Descripcion": "Huaraches ",
+  "Precio": 20,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1JHwtQ2dcSPsSPxxqebsxi2dCjfQq9kia/view?usp=sharing"]
+},
+{
+"Codigo": 2445,
+  "Vendedor": "Lily L",
+  "Descripcion": "Tenis ",
+  "Precio": 250,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1OtW3ewbK_MVjP6w1OteL2XyTB5ocpM6f/view?usp=sharing"]
+},
+{
+"Codigo": 2446,
+  "Vendedor": "Lily L",
+  "Descripcion": "Zapato ",
+  "Precio": 100,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oqdo6oq9M5q3q5iMXF3tZiwJhUzO1y-z/view?usp=sharing"]
+},
+{
+"Codigo": 2447,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1aPLnil0pqDbs8EMYCOj1d_GGLsW4QeZP/view?usp=sharing"]
+},
+{
+"Codigo": 2448,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vMsULsmIYaZlD-ieSa3tTTdB1BJHhgI-/view?usp=sharing"]
+},
+{
+"Codigo": 2449,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1CGOdxB2yqI3q3KwNB5I8n5rVdQyrWUGY/view?usp=sharing"]
+},
+{
+"Codigo": 2450,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1mZzpILYFZr2osnhS5Ini49W1eRgTJ4Fs/view?usp=sharing"]
+},
+{
+"Codigo": 2451,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 45,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1A4PgUDHE6GrLBpOtnlaVQLaOygfdqA82/view?usp=sharing"]
+},
+{
+"Codigo": 2452,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Q7RyJrFyhf1CusT7AOT53i36zZwj1B71/view?usp=sharing"]
+},
+{
+"Codigo": 2453,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AxXnNNukBN9U-qsY_Syh4P3SNjxq-tv-/view?usp=sharing"]
+},
+{
+"Codigo": 2454,
+  "Vendedor": "Lily L",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1qHPaSJrMPnBJ1BiK5EUlz6qd6ITQYrvl/view?usp=sharing"]
+},
+{
+"Codigo": 2455,
+  "Vendedor": "Lily L",
+  "Descripcion": "Falda ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pq4pj-JyQ7zUxBdRu6Gf-73kmZz5Lvs0/view?usp=sharing"]
+},
+{
+"Codigo": 2456,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tkjn3-At021wmJ6WVXAuOzhWKjbOhKYS/view?usp=sharing"]
+},
+{
+"Codigo": 2457,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1iRPc3C0OLSN4I4ocJbLw5JJayfWjpen7/view?usp=sharing"]
+},
+{
+"Codigo": 2458,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1EQxLh9V3qFCjVWsMJepTp7YdKfSo05le/view?usp=sharing"]
+},
+{
+"Codigo": 2459,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 130,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/143QlZqg--JM0x3UrVQBo6xnzrk3cDM9r/view?usp=sharing"]
+},
+{
+"Codigo": 2460,
+  "Vendedor": "Lily L",
+  "Descripcion": "Botas ",
+  "Precio": 180,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/11d_KZmpIDkhRxZkQeQKNTmWsJjT7w1lU/view?usp=sharing"]
+},
+{
+"Codigo": 2461,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1po0eLdJraczcmNVctMpKDF1NcgaLOl-n/view?usp=sharing"]
+},
+{
+"Codigo": 2462,
+  "Vendedor": "Lily L",
+  "Descripcion": "Pantalón ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1uljMCoBJZPjUFfvjNKryNg6lcgOMt-zO/view?usp=sharing"]
+},
+{
+"Codigo": 2463,
+  "Vendedor": "Lily L",
+  "Descripcion": "Bufanda ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ogOfr1N4ZJyrbA3Le-RVYGxakaxK4vqS/view?usp=sharing"]
+},
+{
+"Codigo": 2464,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cdfbdmryVn4FSvSugkv0bkj7sSjDVbkJ/view?usp=sharing"]
+},
+{
+"Codigo": 2465,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QOxq048M8CN4B3AXy4TTVbpbcan33VA8/view?usp=sharing"]
+},
+{
+"Codigo": 2466,
+  "Vendedor": "Lily L",
+  "Descripcion": "Chamarra ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1-YZ6osTQqESEUZ2AIrDp6tMJ5uRyfNNt/view?usp=sharing"]
+},
+{
+"Codigo": 2467,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1RCAOmZsmKNQvtLBAPnIk637zRxvBEYnQ/view?usp=sharing"]
+},
+{
+"Codigo": 2468,
+  "Vendedor": "Lily L",
+  "Descripcion": "Suéter ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1mhbwkvSDRLsHJoN9hELmOQmDzK8j-y7Q/view?usp=sharing"]
+},
+{
+"Codigo": 2469,
+  "Vendedor": "KBS",
+  "Descripcion": "Edredón ",
+  "Precio": 400,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/127clYeYpRHCdJ8kjAwzFx1a_yqYHzcsn/view?usp=sharing"]
+},
+{
+"Codigo": 2470,
+  "Vendedor": "KBS",
+  "Descripcion": "Zapatillas ",
+  "Precio": 380,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ReZnxrOLx-mLpoYBII2vNmFGfEO4wmzp/view?usp=sharing"]
+},
+{
+"Codigo": 2471,
+  "Vendedor": "KBS",
+  "Descripcion": "Sillas ",
+  "Precio": 1900,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1c09ZE-fiPOGCplom30xkYFICPPu_L6wM/view?usp=sharing"]
+},
+{
+"Codigo": 2472,
+  "Vendedor": "KBS",
+  "Descripcion": "Bolsa",
+  "Precio": 0,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1dITKe44KSwOWdW0_RmsMIJQGJADcpcrA/view?usp=sharing"]
+},
+{
+"Codigo": 2473,
+  "Vendedor": "KBS",
+  "Descripcion": "Bolsa ",
+  "Precio": 70,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1FeXP-lu1iES1HjQmcQFf1m1ASetVFrwk/view?usp=sharing"]
+},
+{
+"Codigo": 2474,
+  "Vendedor": "KBS",
+  "Descripcion": "Espumador ",
+  "Precio": 400,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/191xWj3uMFTz_kL55VA9j6q2Dzbd_aJ2W/view?usp=sharing"]
+},
+{
+"Codigo": 2475,
+  "Vendedor": "Lily L",
+  "Descripcion": "Blusa ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QoSMADDcFZOy67oKvRsnI6BPjkEjeP_e/view?usp=sharing"]
+},
+{
+"Codigo": 2476,
+  "Vendedor": "KBS",
+  "Descripcion": "Vestido ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vBqoL27ZBrh-I_8PZV2XKDv41pj_Dm4X/view?usp=sharing"]
+},
+{
+"Codigo": 2477,
+  "Vendedor": "KBS",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/19krLFTNewtHgbJ_EmoeGZzhi5nQWvwE1/view?usp=sharing"]
+},
+{
+"Codigo": 2478,
+  "Vendedor": "KBS",
+  "Descripcion": "Vestido ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BB7Yd-by89Cw93qi_xnYv0GdGsLTBNp2/view?usp=sharing"]
+},
+{
+"Codigo": 2479,
+  "Vendedor": "KBS",
+  "Descripcion": "Vestido ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1r0pGdfWwmEKTrHoj9GsXleQjUGtljHtM/view?usp=sharing"]
+},
+{
+"Codigo": 2480,
+  "Vendedor": "KBS",
+  "Descripcion": "Abrigo ",
+  "Precio": 290,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1hIzvg8iF7o82zgrXV0SXXiA-zS952KJP/view?usp=sharing"]
+},
+{
+"Codigo": 2481,
+  "Vendedor": "KBS",
+  "Descripcion": "Abrigo ",
+  "Precio": 270,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1z7d6_yVpqAia3p-atUk4Fc8Zi-ro7OCB/view?usp=sharing"]
+},
+{
+"Codigo": 2482,
+  "Vendedor": "KBS",
+  "Descripcion": "Lámpara ",
+  "Precio": 40,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1ajMH0lTIclA2ZyM1UrsdFxexZyAsr35S/view?usp=sharing"]
+},
+{
+"Codigo": 2483,
+  "Vendedor": "KBS",
+  "Descripcion": "Tratamiento",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1oXrG6Mii5EL2rJouk2xQP-HNacCILfGd/view?usp=sharing"]
+},
+{
+"Codigo": 2484,
+  "Vendedor": "Lily L",
+  "Descripcion": "Colcha",
+  "Precio": 300,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/18seVjKlCa1F9dt3uGzIJR5kxLc-VzZcq/view?usp=sharing"]
+},
+{
+"Codigo": 2485,
+  "Vendedor": "RITP",
+  "Descripcion": "Suéter",
+  "Precio": 25,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/14WukBtK6shuEHXOfPChrDwx5Bv5QjcfB/view?usp=sharing"]
+},
+{
+"Codigo": 2486,
+  "Vendedor": "RITP",
+  "Descripcion": "Cepillo",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1sArb4X_qJbYC9BkVTP16sHIatARs8bng/view?usp=sharing"]
+},
+{
+"Codigo": 2487,
+  "Vendedor": "RITP",
+  "Descripcion": "Suéter ",
+  "Precio": 300,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1Mz6Jiup4PnMYloHNFN9WvGDNN9yLNBsg/view?usp=sharing"]
+},
+{
+"Codigo": 2488,
+  "Vendedor": "RITP",
+  "Descripcion": "Botitas",
+  "Precio": 80,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1DQFBFLypu8osqi9xXqjw9FwL5Dfw5H9H/view?usp=sharing"]
+},
+{
+"Codigo": 2489,
+  "Vendedor": "RITP",
+  "Descripcion": "Pulsera ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/13LN1-v3HvOlZJmlQs9DfFheYD_h3CgX8/view?usp=sharing"]
+},
+{
+"Codigo": 2490,
+  "Vendedor": "RITP",
+  "Descripcion": "Mariconera ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ntq42iKR8jrf2h46Tqy_tOpPWPm3KFTp/view?usp=sharing"]
+},
+{
+"Codigo": 2491,
+  "Vendedor": "RITP",
+  "Descripcion": "iPad ",
+  "Precio": 8300,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/1gNilWJpCbGfyD5tEntO1oBsQRUytBgE4/view?usp=sharing"]
+},
+{
+"Codigo": 2492,
+  "Vendedor": "RITP",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1gMdd3Ln_wt8R-OvkCiJFYExlNow-2tfh/view?usp=sharing"]
+},
+{
+"Codigo": 2493,
+  "Vendedor": "RITP",
+  "Descripcion": "Plancha",
+  "Precio": 200,
+  "Categoria": "Electrónica ",
+  "Imagenes": ["https://drive.google.com/file/d/10dNyLAaLqRd-ZY-XMh7nhC4pKipnbX63/view?usp=sharing"]
+},
+{
+"Codigo": 2494,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1b-B3m6VeLCH9M11Lms-RzR5XoX3CvC2R/view?usp=sharing"]
+},
+{
+"Codigo": 2495,
+  "Vendedor": "RITP",
+  "Descripcion": "Corbata ",
+  "Precio": 120,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1LkSMk246jG1bo563zHmXTGgT72X1ZP6b/view?usp=sharing"]
+},
+{
+"Codigo": 2496,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1r3tqYSqySmImIArWK7Ttq--6olIOG6Fs/view?usp=sharing"]
+},
+{
+"Codigo": 2497,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1rvF_Qf0iFZK40klXzGu9D3jb9muFbKFi/view?usp=sharing"]
+},
+{
+"Codigo": 2498,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1A6iLC9Lzyd-cbR16GtozetrEF-4eogI_/view?usp=sharing"]
+},
+{
+"Codigo": 2499,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 15,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10a-MEftkcK92eRwhVlEQZcmGuVcy_pJQ/view?usp=sharing"]
+},
+{
+"Codigo": 2500,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1LfqefnFr-zRd0nHg_MSiMdt9yHeX6ZUv/view?usp=sharing"]
+},
+{
+"Codigo": 2501,
+  "Vendedor": "RITP",
+  "Descripcion": "Blusa ",
+  "Precio": 10,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1rF0zUSfY1__XCvVWGkdlBlpFKtmt8_Se/view?usp=sharing"]
+},
+{
+"Codigo": 2502,
+  "Vendedor": "RITP",
+  "Descripcion": "Pantalón ",
+  "Precio": 80,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1QJf8CKT_CSZDlojy6DinAuzG1FJzTRmI/view?usp=sharing"]
+},
+{
+"Codigo": 2503,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1U34c8LDFkLif_qmH6kIkRdbnWySwLjVW/view?usp=sharing"]
+},
+{
+"Codigo": 2504,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1wBXLshLjdXBft077cfSxJNnAZA26UPVY/view?usp=sharing"]
+},
+{
+"Codigo": 2505,
+  "Vendedor": "RITP",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ttMRnq8jTaGxmcOEEAsBUDWEOnoMfoS1/view?usp=sharing"]
+},
+{
+"Codigo": 2506,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/15gAYahYkrQnCQ3GOrh-gpFw7amFvtG9B/view?usp=sharing"]
+},
+{
+"Codigo": 2507,
+  "Vendedor": "RITP",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GeyqOf3tJyJxBSZp_M5Ivt5sZHLxKj0X/view?usp=sharing"]
+},
+{
+"Codigo": 2508,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Bolsa ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1GB7P8L6FsIdzBKndcSB84bmnHHhjZpD7/view?usp=sharing"]
+},
+{
+"Codigo": 2509,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Bufanda ",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1daoG4fLbTnxMJ73LN5Evh6BNhv8EXUcr/view?usp=sharing"]
+},
+{
+"Codigo": 2510,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Pantalón ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10E0W-Fjp05nn-tGfBJV6PLbyJCY25N2r/view?usp=sharing"]
+},
+{
+"Codigo": 2511,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Pantalón ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1EqvFIIz7ru65-olylMIRWQRRpLB2XXcZ/view?usp=sharing"]
+},
+{
+"Codigo": 2512,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Saco ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1gMzgahBViW32RVBgNoO3ZICWM7KUUk03/view?usp=sharing"]
+},
+{
+"Codigo": 2513,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1iMGPYElKN9WuEy4EnQK637pHASiC57vM/view?usp=sharing"]
+},
+{
+"Codigo": 2514,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1EKPsWKgF3EPr3xEKulfmcBk90Jku9VdI/view?usp=sharing"]
+},
+{
+"Codigo": 2515,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Saco ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1BRilX_0MZxw4ys1zYPcRC4HVk0hBiyna/view?usp=sharing"]
+},
+{
+"Codigo": 2516,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Q2ccqGagjSSvEzFthFqBdAj6kbvhPqph/view?usp=sharing"]
+},
+{
+"Codigo": 2517,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zwl_WaB6rgUnpWQBsNs_MzD5dWrwgAy7/view?usp=sharing"]
+},
+{
+"Codigo": 2518,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Short ",
+  "Precio": 100,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/18MtRJla-8zJ_OA-UxsNIm0f4Lj9ayWHW/view?usp=sharing"]
+},
+{
+"Codigo": 2519,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1gDM2Nu3JAXC76vg5etjtJeKxDG6rC5Tr/view?usp=sharing"]
+},
+{
+"Codigo": 2520,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Od_QbtAtdasVe5C6DGpN-CKU2eqUZ2Y5/view?usp=sharing"]
+},
+{
+"Codigo": 2521,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Saco ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/15GvARim1I-Qefqi-Y_WWw3mH5rcsapbS/view?usp=sharing"]
+},
+{
+"Codigo": 2522,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Short ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1sRjCqSFAwRMDHvhSO6Q_3CP6M_lwXbLt/view?usp=sharing"]
+},
+{
+"Codigo": 2523,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oxcWR-6QxBtay1UVGdbEpQtRLWVxKnUz/view?usp=sharing"]
+},
+{
+"Codigo": 2524,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Saco ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xptAceKCPjeylAt_-n7MJICh48dxgfD2/view?usp=sharing"]
+},
+{
+"Codigo": 2525,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Torerita ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ac6KABZvJ8PPn_11xtQ3OXM5S8I8fUIG/view?usp=sharing"]
+},
+{
+"Codigo": 2526,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GKbDHU94ZzEd9crcQHV61mAas2NqTRbG/view?usp=sharing"]
+},
+{
+"Codigo": 2527,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Gorro ",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/19MruBXUmylyq0N6cg19Ghz0E21-VLnMb/view?usp=sharing"]
+},
+{
+"Codigo": 2528,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Maletín ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1EcaDqJEsFustUu85UqDY3dpj9sn7KQW9/view?usp=sharing"]
+},
+{
+"Codigo": 2529,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Bermuda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1dKFcD_--_x6qYHyR9jrGhDqRt8yWIouS/view?usp=sharing"]
+},
+{
+"Codigo": 2530,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12wfu1TFOljC5vuqTJcjMbmAr2xBXG2iI/view?usp=sharing"]
+},
+{
+"Codigo": 2531,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Peluche ",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1cJWgtaeZGBtdkYgG3SNH7yxq-NmZ6CWi/view?usp=sharing"]
+},
+{
+"Codigo": 2532,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1t8-mgffIPynfoqna-Cd-Dzy6KTh9WdHa/view?usp=sharing"]
+},
+{
+"Codigo": 2533,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Pantalón ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17l46NELwdFaJof2xLLsmQhu3DozXLrZu/view?usp=sharing"]
+},
+{
+"Codigo": 2534,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GxVVtWUFeDId6XGBvNwjArEfF5VFyPfp/view?usp=sharing"]
+},
+{
+"Codigo": 2535,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1aRdXAlDOtfiR5NXXlDFOAxj1dacrpih-/view?usp=sharing"]
+},
+{
+"Codigo": 2536,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1L1GSz20jC5-S50Ow1YxgT_j2MxGpLbYX/view?usp=sharing"]
+},
+{
+"Codigo": 2537,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido novia ",
+  "Precio": 5000,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xtXqNnwG198A4DYTvMZLWqjVR8B5k9X0/view?usp=sharing"]
+},
+{
+"Codigo": 2538,
+  "Vendedor": "SMA",
+  "Descripcion": "Olla",
+  "Precio": 500,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1IKqp1q3ZpH14pgw0KD2-Fk2jQEpink71/view?usp=sharing"]
+},
+{
+"Codigo": 2539,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Nchiuo0WZJGp57sQIP0og1E_m7bkToP-/view?usp=sharing"]
+},
+{
+"Codigo": 2540,
+  "Vendedor": "SMA",
+  "Descripcion": "Libreta ",
+  "Precio": 80,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1kbuWJSjmeCnjtZQMBbCArWhtKQ3383Fy/view?usp=sharing"]
+},
+{
+"Codigo": 2541,
+  "Vendedor": "SMA",
+  "Descripcion": "Tapas",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1Z0ztzxOs4mF7psf8mdq71qXvVRPTFVGL/view?usp=sharing"]
+},
+{
+"Codigo": 2542,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1X7t216dpwY8zIcfvdizhSOk2HBT1eXtw/view?usp=sharing"]
+},
+{
+"Codigo": 2543,
+  "Vendedor": "SMA",
+  "Descripcion": "Case",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/12J5UVkRZ3E_HcxgD4UnedcqZ9l_k-_HM/view?usp=sharing"]
+},
+{
+"Codigo": 2544,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapato ",
+  "Precio": 80,
+  "Categoria": "Zapato Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1aWrA5agDkMS8qZU4fzsB8wfRdSP13TZI/view?usp=sharing"]
+},
+{
+"Codigo": 2545,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fCuoCLxqmvp7GhX0AXDa-e_aFo2heLpo/view?usp=sharing"]
+},
+{
+"Codigo": 2546,
+  "Vendedor": "SMA",
+  "Descripcion": "Botella ",
+  "Precio": 150,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1mJq3RVl_rmr3WcB5arNmGnpazJ4TnFeL/view?usp=sharing"]
+},
+{
+"Codigo": 2547,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapato ",
+  "Precio": 80,
+  "Categoria": "Zapato Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1M9yDpKfkky-w3-XDgoVsG-XmIVqFpTxR/view?usp=sharing"]
+},
+{
+"Codigo": 2548,
+  "Vendedor": "SMA",
+  "Descripcion": "Torerita ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Mpb42aLmDhELBmrbS50dko5XeBnmnplR/view?usp=sharing"]
+},
+{
+"Codigo": 2549,
+  "Vendedor": "SMA",
+  "Descripcion": "Piedra",
+  "Precio": 60,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1KHHCpp8FelMaHw0MjB5XmqSi5YtKJbEP/view?usp=sharing"]
+},
+{
+"Codigo": 2550,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapato ",
+  "Precio": 80,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zR_rVvlyZbLtgRZmvqXhmxYVhd8WTbJ8/view?usp=sharing"]
+},
+{
+"Codigo": 2551,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YLbx-0Pi0Nztiwt1drsIIqUgwJrOIpwi/view?usp=sharing"]
+},
+{
+"Codigo": 2552,
+  "Vendedor": "SMA",
+  "Descripcion": "Cápsulas ",
+  "Precio": 80,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1bD8NYrBIt8AUN_sezjcUfJwuhhNR8yMi/view?usp=sharing"]
+},
+{
+"Codigo": 2553,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapato ",
+  "Precio": 80,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1SuRz9epNNWj9R_U-NBuXdc_f4ec3rA3G/view?usp=sharing"]
+},
+{
+"Codigo": 2554,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 10,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Yc-BX5o5YpuXp0cIVLLX7EoulFTdPWFn/view?usp=sharing"]
+},
+{
+"Codigo": 2555,
+  "Vendedor": "SMA",
+  "Descripcion": "Tazón ",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1ldvl0VBnPSJFqXGSrp6W_L5VPBTZNQsI/view?usp=sharing"]
+},
+{
+"Codigo": 2556,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapatillas ",
+  "Precio": 100,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ACj2vda9TpRfqKD3I7-Csq3QDmzVHh6d/view?usp=sharing"]
+},
+{
+"Codigo": 2557,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 10,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zQoDF2bn9aP08BH_saGZB43nWFw5RI0o/view?usp=sharing"]
+},
+{
+"Codigo": 2558,
+  "Vendedor": "SMA",
+  "Descripcion": "Tazón ",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/11lrGjOo4GTtNwBcRXVWzLP44J3fr-xo7/view?usp=sharing"]
+},
+{
+"Codigo": 2559,
+  "Vendedor": "SMA",
+  "Descripcion": "Zapatillas ",
+  "Precio": 180,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1hH7QZH_zGRlkfSn7rsqqY3xpo8eWhSGJ/view?usp=sharing"]
+},
+{
+"Codigo": 2560,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GDfF9nMAxq9hD1e0hictzKCOgVElZb3C/view?usp=sharing"]
+},
+{
+"Codigo": 2561,
+  "Vendedor": "SMA",
+  "Descripcion": "Porta velas",
+  "Precio": 90,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1YPW3sGwkfW5A9ctxPxJS-IapxqvQ50Rx/view?usp=sharing"]
+},
+{
+"Codigo": 2562,
+  "Vendedor": "SMA",
+  "Descripcion": "Cartera ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/18vgFSWD0fq0G6ishpknld59fVHhUMmaw/view?usp=sharing"]
+},
+{
+"Codigo": 2563,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fRAFoF0leJChKF9167lZG0ej1hvQx3sw/view?usp=sharing"]
+},
+{
+"Codigo": 2564,
+  "Vendedor": "SMA",
+  "Descripcion": "Porta velas ",
+  "Precio": 30,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1rI5YQkTV3qZmFZvuy9CzFbTe8wpfHHqg/view?usp=sharing"]
+},
+{
+"Codigo": 2565,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1WOt3fuvZvX_VhIphvigazm0ywGOQVsc9/view?usp=sharing"]
+},
+{
+"Codigo": 2566,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12CDOKTCXs4_LU5MuKHLhvkqYJRkSS97u/view?usp=sharing"]
+},
+{
+"Codigo": 2567,
+  "Vendedor": "SMA",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1iOlIYtR_FvPERBfBGe__r6N5w2hwxO6l/view?usp=sharing"]
+},
+{
+"Codigo": 2568,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pT_Mf6KPOdujhzeVeiFD4G0SmG5a66l0/view?usp=sharing"]
+},
+{
+"Codigo": 2569,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1CmLCnfDJNmY2h0KLeSAouKPMuGC9ow5K/view?usp=sharing"]
+},
+{
+"Codigo": 2570,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1iXzVG8s6riltzhfVdlaw1icfCN6m3wPM/view?usp=sharing"]
+},
+{
+"Codigo": 2571,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AbAXwHJ4drLHIPAyDn4jukd1oKbRyjtf/view?usp=sharing"]
+},
+{
+"Codigo": 2572,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZWFj8LqOthv7i0u0sPXL4ACZdxG8nrPl/view?usp=sharing"]
+},
+{
+"Codigo": 2573,
+  "Vendedor": "SMA",
+  "Descripcion": "Bufanda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ytizxPvHPFF9vFoVBrzVAoO3hVD0dBxD/view?usp=sharing"]
+},
+{
+"Codigo": 2574,
+  "Vendedor": "SMA",
+  "Descripcion": "Abrigo ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1SsWqMOc7pSrH2muviecgU41GHamJqCdw/view?usp=sharing"]
+},
+{
+"Codigo": 2575,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1v540d9FLwysd-HlUfk1rQ8tkUYLPFo0P/view?usp=sharing"]
+},
+{
+"Codigo": 2576,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 50,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1wgLL-SxZlGYVOJnQm0Yhwiz8HCMYycD4/view?usp=sharing"]
+},
+{
+"Codigo": 2577,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1CqlH-mfoQ9DJPmG-4k_2klIj_nwphfv9/view?usp=sharing"]
+},
+{
+"Codigo": 2578,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1hHurNZLiDMeOVy8YMkS7ydPx4U3RBxsE/view?usp=sharing"]
+},
+{
+"Codigo": 2579,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1WCyKe0XPmmVSkagOwj_JxlxcFPJhEJAu/view?usp=sharing"]
+},
+{
+"Codigo": 2580,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1HysqRFPN9gfrhdFi3qlglDK9EB1vRkYK/view?usp=sharing"]
+},
+{
+"Codigo": 2581,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1A9VvFsJ77PCigZx2gyxVuLMt4TsnNvoW/view?usp=sharing"]
+},
+{
+"Codigo": 2582,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pSmM6cQnRSY2ZwgU7g4cRRMSmJ6sRYAS/view?usp=sharing"]
+},
+{
+"Codigo": 2583,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cSsI5e0eF7NDahiwC5I_2fN2l-Of201_/view?usp=sharing"]
+},
+{
+"Codigo": 2584,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GjQVHQPYJ7V0Q7yj06LYtlkY7kdC1OJb/view?usp=sharing"]
+},
+{
+"Codigo": 2585,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1F4clAM5j4he777nq9I-I0hC2lAp0UD6p/view?usp=sharing"]
+},
+{
+"Codigo": 2586,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xNmu4ocpW1n_5CU1_exj8DcAP0KfAHh-/view?usp=sharing"]
+},
+{
+"Codigo": 2587,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oJfjbJWgvtbbWIMmgmT3Ns19ETKqCps4/view?usp=sharing"]
+},
+{
+"Codigo": 2588,
+  "Vendedor": "SMA",
+  "Descripcion": "Dama ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fgGgZz85uW-VRyNK8vJlU4TDqxj1Z3zY/view?usp=sharing"]
+},
+{
+"Codigo": 2589,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pr6nj6HS0BOARcHaZ5liK9gf0ZgeTnZ5/view?usp=sharing"]
+},
+{
+"Codigo": 2590,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xXP5sZrrWR3IM6c9p_mP-Xjrow-xE_jx/view?usp=sharing"]
+},
+{
+"Codigo": 2591,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12GmmBNdWtlNF9eqETBNlCSkgeR4S8erG/view?usp=sharing"]
+},
+{
+"Codigo": 2592,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ikrq8johX_aZLl1WvQU0sDRS3wiNDEmT/view?usp=sharing"]
+},
+{
+"Codigo": 2593,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1lusOh9Bwm435yrG9WdNa7pPiue6so0o8/view?usp=sharing"]
+},
+{
+"Codigo": 2594,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Z7Oxc8jA7sbB6Xj-qqHOSaAC_BZu9Re8/view?usp=sharing"]
+},
+{
+"Codigo": 2595,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1dLFwf2tncWwTXEbqSPe8-5qS3qPB_59k/view?usp=sharing"]
+},
+{
+"Codigo": 2596,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YZuXqOfU962p6NlNCDq4aqV1D0966Psm/view?usp=sharing"]
+},
+{
+"Codigo": 2597,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ty0pomfFdMOskpPMSLvHv09KTrQ7VKSu/view?usp=sharing"]
+},
+{
+"Codigo": 2598,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZXnM9cXvErl5kCBPZCSWXhxSvEnMOFs9/view?usp=sharing"]
+},
+{
+"Codigo": 2599,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1KtmDF5XqzY_AvROPQwDjE3IZL0Qx7ILi/view?usp=sharing"]
+},
+{
+"Codigo": 2600,
+  "Vendedor": "SMA",
+  "Descripcion": "Filtro",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1Y3w1recnFN4N8GLyxuUdFp3ijfAQFyvV/view?usp=sharing"]
+},
+{
+"Codigo": 2601,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/13dWisT18PfsoTsDj7P3x3huKJ3daWphe/view?usp=sharing"]
+},
+{
+"Codigo": 2602,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/1GWfbrDPtcdpasZfvnIyLglijJafkJPPE/view?usp=sharing"]
+},
+{
+"Codigo": 2603,
+  "Vendedor": "SMA",
+  "Descripcion": "Abrigo ",
+  "Precio": 250,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pFMzG6alLBzcwoi1yExBfBEIdXf5HHox/view?usp=sharing"]
+},
+{
+"Codigo": 2604,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oDAXHlVqE552RuwU0qgoVMgiDI9L7hXl/view?usp=sharing"]
+},
+{
+"Codigo": 2605,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Iw7OdYgQY5nE4mThKz4RbBHzuqcLIDMP/view?usp=sharing"]
+},
+{
+"Codigo": 2606,
+  "Vendedor": "SMA",
+  "Descripcion": "Taza ",
+  "Precio": 6,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1FbKQpzsRJXubsQ_1XjPPlZpJumdOhnd5/view?usp=sharing"]
+},
+{
+"Codigo": 2607,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vmtWboTMiPpuuPX9KbY7kGU8JxMbmDw_/view?usp=sharing"]
+},
+{
+"Codigo": 2608,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ppEEa6OVj5tYQ-oi1lwb_XShdZq6XMIO/view?usp=sharing"]
+},
+{
+"Codigo": 2609,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1fyfn2qOnaeXvfu7jpzzzLZmAZBe1KJuF/view?usp=sharing"]
+},
+{
+"Codigo": 2610,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GgFnIhyt0CDC6H5Ox-shKL3Xg1SIDKMy/view?usp=sharing"]
+},
+{
+"Codigo": 2611,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1wzPteFc3YuFMUims0EwKM3DnDsqmFJ4v/view?usp=sharing"]
+},
+{
+"Codigo": 2612,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zi-7_3Saw4GnxWluJdxsRYkI58Ds6vPB/view?usp=sharing"]
+},
+{
+"Codigo": 2613,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/15F6kLX8bKZk6lPZs8ncpn4wphB_2pNQT/view?usp=sharing"]
+},
+{
+"Codigo": 2614,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Z8j5BlaScxeNjVQfYcYEhIm_4IfKFDUA/view?usp=sharing"]
+},
+{
+"Codigo": 2615,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ggFE5csiI7QBwpUIE-Xk6gs79UGj6PDd/view?usp=sharing"]
+},
+{
+"Codigo": 2616,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/11VMiw-zs5khFln4ZDi8Nmyxo_DpapI8Z/view?usp=sharing"]
+},
+{
+"Codigo": 2617,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1SUpjODfUzhmDp5jrh6U6BDFcO2GZ3CKL/view?usp=sharing"]
+},
+{
+"Codigo": 2618,
+  "Vendedor": "SMA",
+  "Descripcion": "Servilleta",
+  "Precio": 20,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1rnXYvhihrb27vygLG0dseY0E1JHyEqQF/view?usp=sharing"]
+},
+{
+"Codigo": 2619,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1m-F3wq2i1_tS4ge--WAOTn_DkEYMF0Ai/view?usp=sharing"]
+},
+{
+"Codigo": 2620,
+  "Vendedor": "SMA",
+  "Descripcion": "Cinturón ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1pjQI4nwHQYlbXqLSWR0kYoJIcnhcMeDJ/view?usp=sharing"]
+},
+{
+"Codigo": 2621,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/18iHxGHkaxVFzPjgnL8XegFRDclI6cBVh/view?usp=sharing"]
+},
+{
+"Codigo": 2622,
+  "Vendedor": "SMA",
+  "Descripcion": "Cinturón ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1B75-i5Gqu0LJx_md-lxWbucSQogHCFdJ/view?usp=sharing"]
+},
+{
+"Codigo": 2623,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1P5xP3WkQ99Ts2v8B7W3YFMHsTsuSnglT/view?usp=sharing"]
+},
+{
+"Codigo": 2624,
+  "Vendedor": "SMA",
+  "Descripcion": "Cinturón ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1_mRLGuVVwazR35jDM9jAm0hB31Uhresa/view?usp=sharing"]
+},
+{
+"Codigo": 2625,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1nrfg0MAVWB0VcSEaEWEm3eXWfvm9Ou32/view?usp=sharing"]
+},
+{
+"Codigo": 2626,
+  "Vendedor": "SMA",
+  "Descripcion": "Cinturón ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1it2eY53DPi9WTVc_J812VZZlUHw4RuEo/view?usp=sharing"]
+},
+{
+"Codigo": 2627,
+  "Vendedor": "SMA",
+  "Descripcion": "Chamarra ",
+  "Precio": 450,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/10LL7B-Mi6S7Yk6igLqGK0ZUMgE7tKvHA/view?usp=sharing"]
+},
+{
+"Codigo": 2628,
+  "Vendedor": "SMA",
+  "Descripcion": "Cinturón ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1H6r4Mq96gOgxqu6cmZ89_WkB5G0Y4y5Y/view?usp=sharing"]
+},
+{
+"Codigo": 2629,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1gO5UfFZS2ubJdYM9t1EuM0YkQ-FPY6Sn/view?usp=sharing"]
+},
+{
+"Codigo": 2630,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1L-zDoihCDeUhYJe35MuFYz0WmmvSg3Xv/view?usp=sharing"]
+},
+{
+"Codigo": 2631,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pt7qo7m-NCQOMa0ipTadlT0sOUzTzfA7/view?usp=sharing"]
+},
+{
+"Codigo": 2632,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1F9qfmcapbZzMa2Wu0kLvj03r9plyb_IQ/view?usp=sharing"]
+},
+{
+"Codigo": 2633,
+  "Vendedor": "SMA",
+  "Descripcion": "Short ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1UlUdEuSMcuVPdsP1U29jwYQvNy8w41UH/view?usp=sharing"]
+},
+{
+"Codigo": 2634,
+  "Vendedor": "SMA",
+  "Descripcion": "Abrigo ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tws7q090heIIDziRT7RNfwqXxFBcdF3I/view?usp=sharing"]
+},
+{
+"Codigo": 2635,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1iaF_dlpG0DKe6QJe3jpH4BXAftt_4sq6/view?usp=sharing"]
+},
+{
+"Codigo": 2636,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cXFdq3DSJMvhhUVVQpJvNLbqIZisThyj/view?usp=sharing"]
+},
+{
+"Codigo": 2637,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Omkwh-boDk7Fj3O4kh-xdWLCaMPlKGOX/view?usp=sharing"]
+},
+{
+"Codigo": 2638,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/11Whc_4XqsGPXLQvtvxmg2nztUmqkIchh/view?usp=sharing"]
+},
+{
+"Codigo": 2639,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Tskl--H8LtsFv2iF0xLWOr4Eec0MIftn/view?usp=sharing"]
+},
+{
+"Codigo": 2640,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1YEspsKENAqELkfa9TkNbGc51bW4bR8Dz/view?usp=sharing"]
+},
+{
+"Codigo": 2641,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1IeW0ra8mxXcfhkou9VxCr29FhO1UK4mo/view?usp=sharing"]
+},
+{
+"Codigo": 2642,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xGbS-75zPSQSwIphfUlOhwj55DioC9-D/view?usp=sharing"]
+},
+{
+"Codigo": 2643,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1LQV3z2OOOzuT41WMU5bY-ODalKmTUiuz/view?usp=sharing"]
+},
+{
+"Codigo": 2644,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1gRNcpHP2wnNn1ZptqEbEphivs8w4OecS/view?usp=sharing"]
+},
+{
+"Codigo": 2645,
+  "Vendedor": "SMA",
+  "Descripcion": "Saco ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ftnnpSWpziFZwnXy8RoU3FKXarqgVupH/view?usp=sharing"]
+},
+{
+"Codigo": 2646,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1x45NkroZEV9G3Mw3QqBl5M4PwvwW-KtA/view?usp=sharing"]
+},
+{
+"Codigo": 2647,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17GrPCeaePzSX89ETELP3Gvo_PmOQC8L2/view?usp=sharing"]
+},
+{
+"Codigo": 2648,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Ym95K0oQuBmIssW4OvXg4eIVVCIUP2FC/view?usp=sharing"]
+},
+{
+"Codigo": 2649,
+  "Vendedor": "SMA",
+  "Descripcion": "Gorro ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1M7rQLWQXsMr8_KYV_dbwhmrNfd3thqMU/view?usp=sharing"]
+},
+{
+"Codigo": 2650,
+  "Vendedor": "SMA",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/12Ne1TVjvKBmI0ZOy35FRdGfFA-r0z3UF/view?usp=sharing"]
+},
+{
+"Codigo": 2651,
+  "Vendedor": "SMA",
+  "Descripcion": "Cortador ",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1IY252Dq8OSm3jVMPdFAD9sx_p6RwLvnK/view?usp=sharing"]
+},
+{
+"Codigo": 2652,
+  "Vendedor": "SMA",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1Bp773ARkpDTpMNXEjzAnVwoCfOUuM1pA/view?usp=sharing"]
+},
+{
+"Codigo": 2653,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1wP2oLkuLsq3APW82XKWrcVcgVckVY23D/view?usp=sharing"]
+},
+{
+"Codigo": 2654,
+  "Vendedor": "SMA",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/12jDkuouXe1GWgokqrr_TVEXKlP1H_9Be/view?usp=sharing"]
+},
+{
+"Codigo": 2655,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1WbhoGdAkIwkt1XcNHsa9zBI697aRNrkG/view?usp=sharing"]
+},
+{
+"Codigo": 2656,
+  "Vendedor": "SMA",
+  "Descripcion": "Corbata ",
+  "Precio": 30,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/1u43KFfzbwStoCojyRA24J_i-K6VwGgI0/view?usp=sharing"]
+},
+{
+"Codigo": 2657,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1EK8mWq9DP8w3Opm8gfIqEohVjo9dPXRz/view?usp=sharing"]
+},
+{
+"Codigo": 2658,
+  "Vendedor": "SMA",
+  "Descripcion": "Pulseras ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1bW-bwLRb7rFT77JIYcUwEaQRqTqRUZPa/view?usp=sharing"]
+},
+{
+"Codigo": 2659,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oEU86hcsi-0NL9Hr2qZdr4GjNPci96Ur/view?usp=sharing"]
+},
+{
+"Codigo": 2660,
+  "Vendedor": "SMA",
+  "Descripcion": "Pulsera ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/14Wp_FbgCY-XaY9tsl-yqMbm-BlNMjGGo/view?usp=sharing"]
+},
+{
+"Codigo": 2661,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GsS5md-ZfW55k74eGhg1ACcN0UdCQYL8/view?usp=sharing"]
+},
+{
+"Codigo": 2662,
+  "Vendedor": "SMA",
+  "Descripcion": "Sombras ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1M4g0KBUMCeuUMPKU-ATgoydyDlx7INKU/view?usp=sharing"]
+},
+{
+"Codigo": 2663,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1qCEOkEk4u4NpRP1HotQGN31yz3_7vyxD/view?usp=sharing"]
+},
+{
+"Codigo": 2664,
+  "Vendedor": "SMA",
+  "Descripcion": "Base ",
+  "Precio": 180,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1EByt59i0bukm9wdHF0fRu78v2-uLaQPg/view?usp=sharing"]
+},
+{
+"Codigo": 2665,
+  "Vendedor": "SMA",
+  "Descripcion": "Pescador ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1MkkMl-N2ll51dFF0h8VF5qv_6PeL9qVB/view?usp=sharing"]
+},
+{
+"Codigo": 2666,
+  "Vendedor": "SMA",
+  "Descripcion": "Fragancia ",
+  "Precio": 70,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/12LH1uZfLwO6c0C7ve9g-xAGGzFuR6Tlz/view?usp=sharing"]
+},
+{
+"Codigo": 2667,
+  "Vendedor": "SMA",
+  "Descripcion": "Pescador ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17kPbMtD11_8PBlRRXTYuRaPKuX-wLSd5/view?usp=sharing"]
+},
+{
+"Codigo": 2668,
+  "Vendedor": "SMA",
+  "Descripcion": "Barniz ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ZTkgq6r-ppJsVHSQIvoM573Dp7raEsoU/view?usp=sharing"]
+},
+{
+"Codigo": 2669,
+  "Vendedor": "SMA",
+  "Descripcion": "Pescador ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1otWkXazx__XsKZ-R7z5m-XdOGoGeSdAY/view?usp=sharing"]
+},
+{
+"Codigo": 2670,
+  "Vendedor": "SMA",
+  "Descripcion": "Maquillaje ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1I-nR_9VwcZNFbu50-O6SGO_4o1cvBCuA/view?usp=sharing"]
+},
+{
+"Codigo": 2671,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1jE6yd3t8_AVk_3M-GiX9ZLtoDSWh5GVE/view?usp=sharing"]
+},
+{
+"Codigo": 2672,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1G1NZQxAJbBzn_3It_vX5oLdxv7rNbWC2/view?usp=sharing"]
+},
+{
+"Codigo": 2673,
+  "Vendedor": "SMA",
+  "Descripcion": "Pantalón ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1ETnAlX-vBvi7DN3-e-7Vxv2MSTDbpOqB/view?usp=sharing"]
+},
+{
+"Codigo": 2674,
+  "Vendedor": "SMA",
+  "Descripcion": "Batidora",
+  "Precio": 500,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1JTuMD_uWiiXGA8wyL7QkduToRIbQx7on/view?usp=sharing"]
+},
+{
+"Codigo": 2675,
+  "Vendedor": "SMA",
+  "Descripcion": "Short ",
+  "Precio": 40,
+  "Categoria": "Caballero ",
+  "Imagenes": ["https://drive.google.com/file/d/18KFtS3xPI9VOr99Pt5rWexShHfjgfQYL/view?usp=sharing"]
+},
+{
+"Codigo": 2676,
+  "Vendedor": "SMA",
+  "Descripcion": "Organizador ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/10KrAGMa_d04HU0Fc0NlzMovYGcgyo5Mo/view?usp=sharing"]
+},
+{
+"Codigo": 2677,
+  "Vendedor": "SMA",
+  "Descripcion": "Falda ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/135emwbHEeOZePsqLZEBciDNsDlWNmSdM/view?usp=sharing"]
+},
+{
+"Codigo": 2678,
+  "Vendedor": "SMA",
+  "Descripcion": "Sudadera ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1eOaKgNmTELgh3jPma_6X8tIfwofl_n8-/view?usp=sharing"]
+},
+{
+"Codigo": 2679,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1W40aGd_p0qDXzWfUdt1J-3OktByNBPgD/view?usp=sharing"]
+},
+{
+"Codigo": 2680,
+  "Vendedor": "SMA",
+  "Descripcion": "Sudadera ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1JZT6PF-7V0F_tPUwnoGxwFoflTwmX8Oj/view?usp=sharing"]
+},
+{
+"Codigo": 2681,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1kbSciDxotNJkXgWElUwNhHiG71cPQEd2/view?usp=sharing"]
+},
+{
+"Codigo": 2682,
+  "Vendedor": "SMA",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xcJJe2Fg7JEEmXlhuKeQJQM3uE5XXNAB/view?usp=sharing"]
+},
+{
+"Codigo": 2683,
+  "Vendedor": "SMA",
+  "Descripcion": "Vestido ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1pbi0AgERvpdOSjVrTaAhfaEwVXVi-7se/view?usp=sharing"]
+},
+{
+"Codigo": 2684,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/13fhad-39tTLjFmxBdeT1gW1Y2O8UidfH/view?usp=sharing"]
+},
+{
+"Codigo": 2685,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/18Uue81jB5RxIa7o3gCee5NXqkQHQOwU3/view?usp=sharing"]
+},
+{
+"Codigo": 2686,
+  "Vendedor": "SMA",
+  "Descripcion": "Playera ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Z0qY4Qs6fPQwjMhqTNuFAD8DNCTKcZu9/view?usp=sharing"]
+},
+{
+"Codigo": 2687,
+  "Vendedor": "SMA",
+  "Descripcion": "Manteles ",
+  "Precio": 70,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1RMG2raAaxLSbNN7cHydanrrIOglkvqHE/view?usp=sharing"]
+},
+{
+"Codigo": 2688,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 120,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1_un481y3yAlbevnaVCbG0uFuYYEIe0DK/view?usp=sharing"]
+},
+{
+"Codigo": 2689,
+  "Vendedor": "SMA",
+  "Descripcion": "Servilleteros",
+  "Precio": 80,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1YtdH48xb7aUiULqQq6PqqYMZS8y8E2RN/view?usp=sharing"]
+},
+{
+"Codigo": 2690,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1wt6nJw0cZGnl5DDuLfOk9EBbCgCGJ4zI/view?usp=sharing"]
+},
+{
+"Codigo": 2691,
+  "Vendedor": "SMA",
+  "Descripcion": "Collar ",
+  "Precio": 80,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1cMAz4R8aMhYCQ9AEwWUBn_gnCTXY0q5q/view?usp=sharing"]
+},
+{
+"Codigo": 2692,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1jQ68IfIMfSApav5T39eqBIB_Yy6BCoEn/view?usp=sharing"]
+},
+{
+"Codigo": 2693,
+  "Vendedor": "SMA",
+  "Descripcion": "Crema ",
+  "Precio": 120,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1DpW8wWsa1eb5S-p97fjiGA18zvMeBAv6/view?usp=sharing"]
+},
+{
+"Codigo": 2694,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1egOA-TCUu-4BR7wDFExef4-f85D2MRzv/view?usp=sharing"]
+},
+{
+"Codigo": 2695,
+  "Vendedor": "SMA",
+  "Descripcion": "Llavero ",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1A42_rY_D7c7b3WKJheW0jefe4Gwq05Sw/view?usp=sharing"]
+},
+{
+"Codigo": 2696,
+  "Vendedor": "SMA",
+  "Descripcion": "Blusa ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1skr0wX0504Qf9lE169IdgSwOWUW_wYFf/view?usp=sharing"]
+},
+{
+"Codigo": 2697,
+  "Vendedor": "SMA",
+  "Descripcion": "Llavero",
+  "Precio": 20,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1uYJrfNkr4UUIyWRksB8Ro9HBoy_cqs29/view?usp=sharing"]
+},
+{
+"Codigo": 2698,
+  "Vendedor": "SMA",
+  "Descripcion": "Set aretes",
+  "Precio": 80,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1nLm8snIKjMPcMJaRYn5S-cvuVqD-lNs4/view?usp=sharing"]
+},
+{
+"Codigo": 2699,
+  "Vendedor": "SMA",
+  "Descripcion": "Pulsera ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1oGOc2nha_jm1o1DWcttU1MdyxbHjtoxv/view?usp=sharing"]
+},
+{
+"Codigo": 2700,
+  "Vendedor": "SMA",
+  "Descripcion": "Dije ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1H-1l_E46q5HSW7VRP_eeQsIQ2q0hOOvD/view?usp=sharing"]
+},
+{
+"Codigo": 2701,
+  "Vendedor": "SMA",
+  "Descripcion": "Pulsera ",
+  "Precio": 50,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/11P_BPWV5G0r6-DDxUnj69sbHr9R0TzV4/view?usp=sharing"]
+},
+{
+"Codigo": 2702,
+  "Vendedor": "SMA",
+  "Descripcion": "Aretes ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1nZKA9lBqO-XB4qrukPzBMNZGsxD9rUeD/view?usp=sharing"]
+},
+{
+"Codigo": 2703,
+  "Vendedor": "SMA",
+  "Descripcion": "Dije ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1RJukYC7riB_JxEE78HEYNtuPB73gMkCy/view?usp=sharing"]
+},
+{
+"Codigo": 2704,
+  "Vendedor": "SMA",
+  "Descripcion": "Collar ",
+  "Precio": 30,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/12CyoG5IDFwzlXSxD8AMAHy_DYmid6t2R/view?usp=sharing"]
+},
+{
+"Codigo": 2705,
+  "Vendedor": "SMA",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1Rqr5AgcLTu_jz3nNw3XtsB3Tp0dJc4z_/view?usp=sharing"]
+},
+{
+"Codigo": 2706,
+  "Vendedor": "SMA",
+  "Descripcion": "Collar ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1s9k7z3o1pPrpbyydRfe9HLG8Xb7pSZda/view?usp=sharing"]
+},
+{
+"Codigo": 2707,
+  "Vendedor": "SMA",
+  "Descripcion": "Pisapapeles ",
+  "Precio": 40,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1VcMO7Kmv25zuRtcKYavE6LwGd7_Yysh_/view?usp=sharing"]
+},
+{
+"Codigo": 2708,
+  "Vendedor": "SMA",
+  "Descripcion": "Barniz ",
+  "Precio": 10,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1gW4sK56CLLoHii8g1cH4OcHxNNS6ZhWM/view?usp=sharing"]
+},
+{
+"Codigo": 2709,
+  "Vendedor": "SMA",
+  "Descripcion": "Globos",
+  "Precio": 100,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/12JHJfUHl29cbZ3y7cO6cnztd-Hbq1r7_/view?usp=sharing"]
+},
+{
+"Codigo": 2710,
+  "Vendedor": "SMA",
+  "Descripcion": "Anillo ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1b259R_eXhCW3OER10O1jlctTA03W_A7x/view?usp=sharing"]
+},
+{
+"Codigo": 2711,
+  "Vendedor": "SMA",
+  "Descripcion": "Aretes ",
+  "Precio": 40,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/15HxVlXoTf9qqMdhRDyWVWs6sU9RByyv3/view?usp=sharing"]
+},
+{
+"Codigo": 2712,
+  "Vendedor": "SMA",
+  "Descripcion": "Dije",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1nAms1CczgPQub9UIW4qNMgTi67LElYjU/view?usp=sharing"]
+},
+{
+"Codigo": 2713,
+  "Vendedor": "SMA",
+  "Descripcion": "Cadena",
+  "Precio": 100,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1zP8Yjjp-pd9T-x1r0iEGvLSj_tjLpF2Q/view?usp=sharing"]
+},
+{
+"Codigo": 2714,
+  "Vendedor": "SMA",
+  "Descripcion": "Difusor ",
+  "Precio": 250,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1VbVOoCisvphFC5xCCwwoNTGBIBWRZwjh/view?usp=sharing"]
+},
+{
+"Codigo": 2715,
+  "Vendedor": "SMA",
+  "Descripcion": "Mochila ",
+  "Precio": 950,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1E8bHF0osXP2RxQ2ctglaoBCJjCLc0jru/view?usp=sharing"]
+},
+{
+"Codigo": 2716,
+  "Vendedor": "SMA",
+  "Descripcion": "Tazas ",
+  "Precio": 350,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1KGrhnO6lry17-prX0YSjgeZsn6nfOW8M/view?usp=sharing"]
+},
+{
+"Codigo": 2717,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 180,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AIprt0wTqjpNbLWxYUeFuZNHGUWX0sEW/view?usp=sharing"]
+},
+{
+"Codigo": 2718,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1yR_Cdfe-2hglVFQdRAhqGHtAwvKoF_Gr/view?usp=sharing"]
+},
+{
+"Codigo": 2719,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/167_9ANac29ZZ11st_6S61edux9-QFMLR/view?usp=sharing"]
+},
+{
+"Codigo": 2720,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AlLQ0-umDJxxfdvDlNGPMit_04VIq6un/view?usp=sharing"]
+},
+{
+"Codigo": 2721,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 150,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/18EPpgd5kpOuC8MJv-zCse71hIG-OaxF1/view?usp=sharing"]
+},
+{
+"Codigo": 2722,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Vestido ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1sm01bxGt_6pN2EKJa4Uxfg20RFHBwMJJ/view?usp=sharing"]
+},
+{
+"Codigo": 2723,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Zapatillas ",
+  "Precio": 50,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1SpBUr9FPjlZrBCyNBkHcQHuUg_QnJHRj/view?usp=sharing"]
+},
+{
+"Codigo": 2724,
+  "Vendedor": "Stefany ",
+  "Descripcion": "Falda ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1DtA2bji1opnuGnBq2SoiPhVgBjEZhcMn/view?usp=sharing"]
+},
+{
+"Codigo": 2725,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1o_bL9c3JoD7Zkf1o2m-na91nP9ImlHLf/view?usp=sharing"]
+},
+{
+"Codigo": 2726,
+  "Vendedor": "VDM",
+  "Descripcion": "Abrigo ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/12sL9v_93QUY2KEpqo3Qb9RfnDpvrfT2O/view?usp=sharing"]
+},
+{
+"Codigo": 2727,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1F3zkvjcLyeRvLIFvql35-u_bUCP5lMX-/view?usp=sharing"]
+},
+{
+"Codigo": 2728,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1_QDrRmUmzRIJjqFZoU4GjNi4-aXsJDp7/view?usp=sharing"]
+},
+{
+"Codigo": 2729,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AJp2MOi6RnZzjH3hVJmfVToWOBNVL2wX/view?usp=sharing"]
+},
+{
+"Codigo": 2730,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1bBuFeXVWPQCwjyEPuEM5DndFyGVLUPHP/view?usp=sharing"]
+},
+{
+"Codigo": 2731,
+  "Vendedor": "VDM",
+  "Descripcion": "Abrigo ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1h1DsJ7qWdTYr14FoGOG2DrolfsK0HomK/view?usp=sharing"]
+},
+{
+"Codigo": 2732,
+  "Vendedor": "VDM",
+  "Descripcion": "Abrigo ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GuH5CnSQz1hWxnFFNKgdUsDS0nu0jfi0/view?usp=sharing"]
+},
+{
+"Codigo": 2733,
+  "Vendedor": "VDM",
+  "Descripcion": "Abrigo ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1oLQMZ-DEwlMjJ4njid-0w4cx20cRQP_P/view?usp=sharing"]
+},
+{
+"Codigo": 2734,
+  "Vendedor": "VDM",
+  "Descripcion": "Maleta ",
+  "Precio": 100,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kok6VZE2sRFpNWgxCVxpM7vG42z2oLi1/view?usp=sharing"]
+},
+{
+"Codigo": 2735,
+  "Vendedor": "VDM",
+  "Descripcion": "Escurridor ",
+  "Precio": 100,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/10RR09d1uGcYg7ivmoOWkl6_gCfFpykOm/view?usp=sharing"]
+},
+{
+"Codigo": 2736,
+  "Vendedor": "VDM",
+  "Descripcion": "Bote ",
+  "Precio": 70,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/15ehN7GjL89hLLdHCZ4fy3vcO7wfjvQLy/view?usp=sharing"]
+},
+{
+"Codigo": 2737,
+  "Vendedor": "VDM",
+  "Descripcion": "Chamarra ",
+  "Precio": 100,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1vJgp4L8lo3Z61bu7kfQYj7bSOfTUudCc/view?usp=sharing"]
+},
+{
+"Codigo": 2738,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Rosa",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1g_19oyZGlvBl33S5VSNmtg_GlRH-V_28/view?usp=sharing"]
+},
+{
+"Codigo": 2739,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Verde",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1g_19oyZGlvBl33S5VSNmtg_GlRH-V_28/view?usp=sharing"]
+},
+{
+"Codigo": 2740,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Azul Rey",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1g_19oyZGlvBl33S5VSNmtg_GlRH-V_28/view?usp=sharing"]
+},
+{
+"Codigo": 2741,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Turquesa",
+  "Precio": 50,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1g_19oyZGlvBl33S5VSNmtg_GlRH-V_28/view?usp=sharing"]
+},
+{
+"Codigo": 2742,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Naranja",
+  "Precio": 25,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kZYDdUeZzZbnl33y-G00fRw6k8EWPG0X/view?usp=sharing"]
+},
+{
+"Codigo": 2743,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Morado",
+  "Precio": 25,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kZYDdUeZzZbnl33y-G00fRw6k8EWPG0X/view?usp=sharing"]
+},
+{
+"Codigo": 2744,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Azul",
+  "Precio": 25,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kZYDdUeZzZbnl33y-G00fRw6k8EWPG0X/view?usp=sharing"]
+},
+{
+"Codigo": 2745,
+  "Vendedor": "VDM",
+  "Descripcion": "Botella Amarillo",
+  "Precio": 25,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1kZYDdUeZzZbnl33y-G00fRw6k8EWPG0X/view?usp=sharing"]
+},
+{
+"Codigo": 2746,
+  "Vendedor": "VDM",
+  "Descripcion": "Juego baño ",
+  "Precio": 150,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1o0B4zkeISUH0ans43OJbfQZ-hqt1mC_U/view?usp=sharing"]
+},
+{
+"Codigo": 2747,
+  "Vendedor": "VL",
+  "Descripcion": "Saco",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1zObKis8z0aF3Ntoo6wTQ50GGo887SuVd/view?usp=sharing"]
+},
+{
+"Codigo": 2748,
+  "Vendedor": "VL",
+  "Descripcion": "Saco ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Upu6tLM8bnkH7NuJU47SN_leCy48R8qd/view?usp=sharing"]
+},
+{
+"Codigo": 2749,
+  "Vendedor": "VL",
+  "Descripcion": "Saco ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1y9Mbgtple32rRBcRdsieM9vi60G4jC6Q/view?usp=sharing"]
+},
+{
+"Codigo": 2750,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1XU1kDI9t5Tb0Ey8QNTOzlZVQjljT6kQy/view?usp=sharing"]
+},
+{
+"Codigo": 2751,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1RF7Jufs7S8BtbXconQ9csgcYgJpBJWAP/view?usp=sharing"]
+},
+{
+"Codigo": 2752,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 25,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/11RYqzzZRvbhnVMfDRhZOx671ShxZaQc9/view?usp=sharing"]
+},
+{
+"Codigo": 2753,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 25,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1x0ZzePSRUzyQCUUzbDuAce9ORnU_j3Ka/view?usp=sharing"]
+},
+{
+"Codigo": 2754,
+  "Vendedor": "VL",
+  "Descripcion": "Blusa ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xAEkIc8IjaYcX4-2GO2cBCW0AC9yqjR3/view?usp=sharing"]
+},
+{
+"Codigo": 2755,
+  "Vendedor": "VL",
+  "Descripcion": "Suéter ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1JiU1D__6STy58P43NiL2RLoLX2a2Xiwr/view?usp=sharing"]
+},
+{
+"Codigo": 2756,
+  "Vendedor": "VL",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1aGMQylRq97cdhMvzG016OjUBJBl_-RZV/view?usp=sharing"]
+},
+{
+"Codigo": 2757,
+  "Vendedor": "VL",
+  "Descripcion": "Chamarra ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1n0TfCvC2W3VcLhrWYn5MTEHxOYDASGpp/view?usp=sharing"]
+},
+{
+"Codigo": 2758,
+  "Vendedor": "VL",
+  "Descripcion": "Vestido ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/17d6fDb9UH4p9vE68XfUVcqtFi_rly97_/view?usp=sharing"]
+},
+{
+"Codigo": 2759,
+  "Vendedor": "VL",
+  "Descripcion": "Vestido ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1K2j6jnkGco8LEVoWQyg1lCx-EYyxhvVT/view?usp=sharing"]
+},
+{
+"Codigo": 2760,
+  "Vendedor": "VL",
+  "Descripcion": "Pantalón ",
+  "Precio": 25,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xqeoYuQOB7egOZrkpi5DaBRwXaqRsm_K/view?usp=sharing"]
+},
+{
+"Codigo": 2761,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1aRgQMNAVNySu0wxRtWHRHdpUX2tZYPPw/view?usp=sharing"]
+},
+{
+"Codigo": 2762,
+  "Vendedor": "VL",
+  "Descripcion": "Pantalón ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/15Wa5yQFukakFZOfYDCSrYoY9jGSin0kF/view?usp=sharing"]
+},
+{
+"Codigo": 2763,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1nUCN5pVaTody60lQ9e1vRwPpzJVOevu9/view?usp=sharing"]
+},
+{
+"Codigo": 2764,
+  "Vendedor": "VL",
+  "Descripcion": "Pashmina ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1xFbcGJhmE2or4CA373f-Obyks_NuxhiG/view?usp=sharing"]
+},
+{
+"Codigo": 2765,
+  "Vendedor": "VL",
+  "Descripcion": "Pantalón ",
+  "Precio": 40,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1bSklRIu7YJcLegda0yiNo9SLaNO-T45I/view?usp=sharing"]
+},
+{
+"Codigo": 2766,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1Tr0FOpPphBYAWUyxA8d7SEXFyEPbQg0N/view?usp=sharing"]
+},
+{
+"Codigo": 2767,
+  "Vendedor": "VL",
+  "Descripcion": "Pashmina ",
+  "Precio": 15,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1ybjdrR7gimRoBFuGpKPxMiGmDJmsYkvk/view?usp=sharing"]
+},
+{
+"Codigo": 2768,
+  "Vendedor": "VL",
+  "Descripcion": "Suéter ",
+  "Precio": 25,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/16gw-m0lI9mHJDl_xKVUoOO8wQdwUVmD8/view?usp=sharing"]
+},
+{
+"Codigo": 2769,
+  "Vendedor": "VL",
+  "Descripcion": "Falda ",
+  "Precio": 35,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1j6zFXTxUqKcwkfmWWJxS0RnSyLNH7kuo/view?usp=sharing"]
+},
+{
+"Codigo": 2770,
+  "Vendedor": "VL",
+  "Descripcion": "Vestido ",
+  "Precio": 45,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1clqM4Tkm2wXuYenZNhc-Kq4SK0Pw5tXJ/view?usp=sharing"]
+},
+{
+"Codigo": 2771,
+  "Vendedor": "VL",
+  "Descripcion": "Suéter ",
+  "Precio": 30,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1QMmEPHW03gDfm45K0rBVVo14TXqyCEPD/view?usp=sharing"]
+},
+{
+"Codigo": 2772,
+  "Vendedor": "VL",
+  "Descripcion": "Capa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1GlhqnBiPV4V8CSRb19BdbmEzs8lax_V9/view?usp=sharing"]
+},
+{
+"Codigo": 2773,
+  "Vendedor": "MAR",
+  "Descripcion": "Vestido ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1MxMw5vSGB8uN2FsRLDpyvfFjmrJyemsE/view?usp=sharing"]
+},
+{
+"Codigo": 2774,
+  "Vendedor": "MAR",
+  "Descripcion": "Vestido ",
+  "Precio": 50,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1FKtzYsm8rDYDkQnWY1L5uCWnyOk6QiKy/view?usp=sharing"]
+},
+{
+"Codigo": 2775,
+  "Vendedor": "MAR",
+  "Descripcion": "Vestido ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1mKpTgardcnUhNJdke9fOBwSeKgq3zUit/view?usp=sharing"]
+},
+{
+"Codigo": 2776,
+  "Vendedor": "DART",
+  "Descripcion": "Pantalón ",
+  "Precio": 200,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1U1OAGNQssD7zqed2dRW7EFb-2liu9sIz/view?usp=sharing"]
+},
+{
+"Codigo": 2777,
+  "Vendedor": "ELR",
+  "Descripcion": "Aretes ",
+  "Precio": 60,
+  "Categoria": "Accesorios ",
+  "Imagenes": ["https://drive.google.com/file/d/1PZL4EwS1tRcBcWDVJdwsQ5sQK_9-hgqu/view?usp=sharing"]
+},
+{
+"Codigo": 2778,
+  "Vendedor": "ELR",
+  "Descripcion": "Pantalón ",
+  "Precio": 70,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1dvWvvS2MJhWtAlETCNnoIkDxdV_p1NHE/view?usp=sharing"]
+},
+{
+"Codigo": 2779,
+  "Vendedor": "S.Roj ",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1UbVfnLWKgYihCwsoXKNRHyr24iPljf5x/view?usp=sharing"]
+},
+{
+"Codigo": 2780,
+  "Vendedor": "DG",
+  "Descripcion": "Vestido ",
+  "Precio": 130,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1xBbQ6nRBuScPalMbXFUDx2LA-BNwkRqA/view?usp=sharing"]
+},
+{
+"Codigo": 2781,
+  "Vendedor": "AA",
+  "Descripcion": "Vestido ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1cu2R1Km2Kw292Zrcelq_A2Nufx2lL3r_/view?usp=sharing"]
+},
+{
+"Codigo": 2782,
+  "Vendedor": "AA",
+  "Descripcion": "Saco ",
+  "Precio": 80,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1tRj74RVoiEYu0Yc7WqQQ4IjE63mU3KCy/view?usp=sharing"]
+},
+{
+"Codigo": 2783,
+  "Vendedor": "JK",
+  "Descripcion": "Sillón ",
+  "Precio": 4000,
+  "Categoria": "Hogar ",
+  "Imagenes": ["https://drive.google.com/file/d/1zlA5Fd9qSP_l5lRZ5l61drVbklVH-vG4/view?usp=sharing"]
+},
+{
+"Codigo": 2784,
+  "Vendedor": "ReSo",
+  "Descripcion": "Blusa ",
+  "Precio": 20,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1y-2wRP5H7_QIS0oY1kdDdeJLwcAjuEwf/view?usp=sharing"]
+},
+{
+"Codigo": 2785,
+  "Vendedor": "ReSo",
+  "Descripcion": "Zapatillas ",
+  "Precio": 50,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1lqcXeqrr4d5VNsOfRNll7M83GRTe38w2/view?usp=sharing"]
+},
+{
+"Codigo": 2786,
+  "Vendedor": "ReSo",
+  "Descripcion": "Zapatillas ",
+  "Precio": 50,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1AcyaTIM8Za1hYG--NQjDp6I8ss_8s_om/view?usp=sharing"]
+},
+{
+"Codigo": 2787,
+  "Vendedor": "ReSo",
+  "Descripcion": "Zapatillas ",
+  "Precio": 80,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/11PBZyvY7GN7-OLE2pYSWDejX5aqUzfb4/view?usp=sharing"]
+},
+{
+"Codigo": 2788,
+  "Vendedor": "ReSo",
+  "Descripcion": "Zapatillas ",
+  "Precio": 50,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1RvjGYzNn4tn5kRbU0dlteGs_1yQHcyAa/view?usp=sharing"]
+},
+{
+"Codigo": 2789,
+  "Vendedor": "ReSo",
+  "Descripcion": "Sandalias ",
+  "Precio": 50,
+  "Categoria": "Zapato Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1C9fmRiJALTG_KVRAa6x2vWMSZxXAipt3/view?usp=sharing"]
+},
+{
+"Codigo": 2790,
+  "Vendedor": "ReSo",
+  "Descripcion": "Abrigo ",
+  "Precio": 60,
+  "Categoria": "Dama ",
+  "Imagenes": ["https://drive.google.com/file/d/1t48-gX4tnNMg2BcioVXl0JbfpWruMV8E/view?usp=sharing"]
+},
+{
+"Codigo": 2791,
+  "Vendedor": "ReSo",
+  "Descripcion": "Saco ",
+  "Precio": 50,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/13v1yrWj_y10rH7_KOaTw5fGeViJVwgrW/view?usp=sharing"]
+},
+{
+"Codigo": 2792,
+  "Vendedor": "ReSo",
+  "Descripcion": "Saco ",
+  "Precio": 50,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/1jJYcAxNfI0mjmgQT-LYZxpz78GKIZTZx/view?usp=sharing"]
+},
+{
+"Codigo": 2793,
+  "Vendedor": "ReSo",
+  "Descripcion": "Saco ",
+  "Precio": 40,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/1LuSpVXQhAWBYpEjydVAr4lXLD2FNWx34/view?usp=sharing"]
+},
+{
+"Codigo": 2794,
+  "Vendedor": "ReSo",
+  "Descripcion": "Pantalon",
+  "Precio": 40,
+  "Categoria": "Dama",
+  "Imagenes": ["https://drive.google.com/file/d/1mT5_WQAv7FPE9QhuRfa0i6HV_Kz5Ozri/view?usp=sharing"]
+}
+]

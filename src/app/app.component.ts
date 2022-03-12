@@ -3,7 +3,7 @@ import * as fromReducer from './reducers/articulo.reducer';
 import * as fromUsuarioReducer from './reducers/usuario.reducer';
 import * as fromActions from './actions/articulo.actions';
 import { Store } from '@ngrx/store';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 import { Articulo } from 'src/app/models/articulo';
 import { ArticuloState } from './states/app.states';
 import { UsuarioService } from './services/usuario.service';
@@ -19,6 +19,18 @@ export class AppComponent {
 
   articulos$ = this.store.select(fromReducer.selectArticlesBySelectCategory);
   categorias$ = this.store.select(fromReducer.selectCategorias);
+
+  articulosVisibles = this.articulos$.pipe(
+    map((articulos) => {
+
+      if(this.isLoggued$){
+        return articulos;
+      }else{
+        return articulos.filter((articulo) => articulo.Vendido === false)
+      }
+    })
+  );
+
 
   isLoggued$: boolean = false;
   loguedUser$: Observable<Usuario | null>;

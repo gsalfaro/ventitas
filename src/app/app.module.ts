@@ -21,6 +21,7 @@ import { UsuarioEffects } from './effects/usuario.effects';
 
 import { LightboxModule } from 'ngx-lightbox';
 import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
+import { LazyLoadImageModule } from 'ng-lazyload-image';
 
 @NgModule({
   declarations: [AppComponent, LoginComponent, ImagesCarouselComponent],
@@ -34,7 +35,8 @@ import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
     NgbModule,
     ReactiveFormsModule,
     LightboxModule,
-    SweetAlert2Module.forRoot()
+    SweetAlert2Module.forRoot(),
+    LazyLoadImageModule
   ],
   providers: [ArticuloService, UsuarioService],
   bootstrap: [AppComponent, LoginComponent],

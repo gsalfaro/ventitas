@@ -13,7 +13,7 @@ import { UsuarioService } from '../services/usuario.service';
 import { Articulo } from '../models/articulo';
 import { ArticuloService } from '../services/articulo.service';
 
-import ArticulosData from '../../assets/json/articulos.json';
+import ArticulosData from '../../assets/json/articulos_2.json';
 
 @Component({
   selector: 'app-login',
